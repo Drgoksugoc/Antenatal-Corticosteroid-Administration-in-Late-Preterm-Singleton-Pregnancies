@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated manuscript."
+title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies"
+type: dataset
+authors:
+  - given-names: "Goksu"
+    family-names: "Goc"
+keywords:
+  - obstetrics
+  - antenatal corticosteroids
+  - late preterm
+  - propensity score
+license: "CC-BY-4.0"
