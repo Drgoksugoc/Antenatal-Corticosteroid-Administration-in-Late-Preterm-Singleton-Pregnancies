@@ -1,0 +1,1092 @@
+ID_deidentified,conception_type,maternal_disease,medication_use,age,bmi,gravida,parity,ga_weeks_at_birth,ga_days_at_birth,type_of_delivery,indication_for_delivery,acs_under_34w,acs_under_34w_dose,acs_34w_to_37w,acs_34w_to_37w_dose,as_to_delivery_time,fetal_gender,fetal_weight,fetal_height,fetal_head_circumf,apgar_1_min,apgar_5_min,nicu_days,neonatal_hypoglycemia,maternal_infection,neonatal_resusitation,oxygen_support,neonatal_sepsis,indication_of_nicu_admission,respiratory_morbidity,invasive_mechanic_ventilation_days,nasal_mv_days,o2_days_total,preterm_complications,neonatal_death
+Pt273,ıvf,No,no,29,31.3,1,0,34,3,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,yes,rescue,6 to 24 hrs,male,3560,50,34,9,10,10,no,no,yes,cpap,no,resp. distress,TTN,0,0,0,NONE,no
+Pt421,spontaneus,DM,no,33,29.1,3,2,34,3,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,3440,48,34,8,8,45,no,no,yes,cpap,early,others,none,6,24,0,Ha PDA,no
+Pt777,spontaneus,No,no,29,24,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2600,47,33,0,9,13,no,no,yes,cpap,early,resp. distress,pneumonia,5,11,12,Ha PDA,no
+Pt438,spontaneus,No,no,42,29,3,1,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2370,48,32,3,7,17,no,yes,yes,cpap,early,sepsis,none,0,0,0,NEC,no
+Pt533,spontaneus,No,no,29,27.3,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3390,50,34,8,9,4,no,no,yes,cpap,early,resp. distress,TTN,0,1,1,NONE,no
+Pt793,spontaneus,No,no,37,23.8,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,46,34,6,8,6,no,no,yes,cpap,early,resp. distress,pneumonia,3,2,5,NONE,no
+Pt819,spontaneus,No,no,34,23.1,4,3,34,2,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2300,45,32,8,9,8,no,no,yes,cpap,early,resp. distress,pneumonia,0,5,6,NONE,no
+Pt894,spontaneus,hypo-hyperthyroidia,thyroid,27,28.9,4,2,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3110,46,35,1,6,10,yes,no,yes,cpap,early,resp. distress,RDS + Pneumonia,5,1,6,NONE,no
+Pt60,ıvf,No,no,26,37.9,1,0,34,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2260,46.8,30,3,6,8,no,no,yes,cpap,early,resp. distress,RDS,0,2,7,NONE,no
+Pt19,spontaneus,hypo-hyperthyroidia,4.6,31,42.6,3,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3250,50,36,8,9,7,no,no,yes,cpap,early,resp. distress,pneumonia,0,5,35,NONE,no
+Pt370,spontaneus,No,anticoagülan,31,29.8,2,0,34,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2220,45,32,7,9,10,no,yes,yes,cpap,early,resp. distress,TTN,0,0,0,NONE,no
+Pt215,spontaneus,No,no,36,32.7,2,1,34,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2900,42.2,37,6,8,36,no,no,yes,cpap,late,resp. distress,pneumonia,15,9,31,Ha PDA + NEC,no
+Pt349,spontaneus,hypo-hyperthyroidia,thyroid,25,30.1,1,0,35,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1720,43,31,5,9,31,no,no,yes,cpap,late,resp. distress,TTN,0,2,10,Ha PDA,no
+Pt638,spontaneus,No,no,23,26.2,2,1,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,1985,43,34,6,9,14,no,no,yes,cpap,late,resp. distress,none,0,0,0,NONE,no
+Pt189,spontaneus,No,no,39,33.2,2,1,35,2,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,female,2430,46,33,6,8,9,no,no,yes,cpap,late,resp. distress,TTN,0,1,1,NONE,no
+Pt304,spontaneus,No,no,25,30.9,3,1,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3470,52,34,6,8,16,no,no,yes,cpap,late,resp. distress,none,0,2,10,NONE,no
+Pt640,spontaneus,No,no,28,26.1,2,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2865,54,35,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,Ha PDA,no
+Pt38,spontaneus,hypo-hyperthyroidia,thyroid,23,40.3,1,0,35,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2140,43,31,6,8,4,no,no,yes,cpap,no,resp. distress,none,0,1,1,Ha PDA,no
+Pt838,spontaneus,No,no,21,22.5,1,0,35,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2150,44,35,3,6,3,no,yes,yes,cpap,no,resp. distress,Pneumothorax + Pulm HT,3,0,3,Ha PDA,yes
+Pt928,spontaneus,DM,antihipertansive,34,28.9,1,0,35,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2510,48,36,7,9,8,no,no,yes,cpap,no,resp. distress,Pneumothorax + Pneumonia,0,4,8,Ha PDA,no
+Pt1020,spontaneus,No,no,29,28.9,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2770,47,33,4,9,21,no,no,yes,cpap,no,resp. distress,pneumonia,8,2,11,Ha PDA,no
+Pt547,spontaneus,No,no,31,27.3,3,2,34,0,Cesarean,preterm eylem,yes,single dose,no,no,0 to 6 hrs,male,2250,44.5,29.4,6,8,14,no,no,yes,cpap,no,resp. distress,TTN + RDS,0,3,13,Ha PDA,no
+Pt235,spontaneus,No,no,28,32.1,1,0,36,1,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2220,47,32,6,8,4,no,no,yes,cpap,no,resp. distress,none,0,0,0,NONE,no
+Pt682,spontaneus,No,no,27,25.5,1,0,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2900,46,34,7,0,2,no,no,yes,cpap,no,resp. distress,none,0,1,0,NONE,no
+Pt1055,spontaneus,No,no,31,28.9,3,2,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2680,46.5,33,6,9,2,no,no,yes,cpap,no,resp. distress,none,0,0,0,NONE,no
+Pt30,spontaneus,hypo-hyperthyroidia,2.6,25,41.1,5,1,36,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,3190,50,34,6,8,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt42,spontaneus,other,anticoagülan,38,39.5,3,2,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3230,52,35,7,8,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt44,spontaneus,preeclampsi,1.6,38,39.1,4,2,36,6,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2950,49,40,9,10,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt88,spontaneus,DM,insulin + OAD,36,36.7,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3780,53,37,7,8,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt242,spontaneus,No,no,25,32,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2470,48,34,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt283,spontaneus,No,no,30,31.3,3,2,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2400,46,35,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt285,spontaneus,No,no,35,31.2,2,1,34,0,Cesarean,1.5,no,no,no,no,0 to 6 hrs,male,1780,37,33,7,9,4,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt288,spontaneus,No,antihipertansive,24,31.2,2,1,34,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,2 to 7 days,male,2000,44,31,9,10,5,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt326,ıvf,No,no,30,30.5,5,4,35,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2930,49,34,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt359,ıvf,No,no,33,30.1,2,1,34,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,2 to 7 days,male,2700,46,33,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt366,spontaneus,No,no,43,30,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3330,52,36,8,9,2,no,yes,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt375,spontaneus,No,no,26,29.7,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2690,48,34,4,8,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt449,spontaneus,No,no,28,28.8,1,0,35,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3000,49,33,8,9,4,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt480,spontaneus,No,no,20,28.1,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2560,47,31,0,0,6,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt491,spontaneus,No,no,32,28,2,1,35,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2740,49,35,7,9,5,no,yes,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt545,spontaneus,No,no,20,27.3,2,1,35,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2445,46,34,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt549,spontaneus,hypo-hyperthyroidia,thyroid,36,27.3,3,2,34,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2425,53,33,5,10,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt556,spontaneus,No,no,35,27.2,2,1,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3245,50,34,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt558,spontaneus,No,no,33,27.2,2,1,34,1,Cesarean,fetal distress,yes,2 doses 24hrs  interval,no,no,>7 days,female,1630,41,29,7,8,7,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt583,spontaneus,No,no,36,26.8,3,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3020,46,34,7,8,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt600,spontaneus,No,no,21,26.6,2,1,34,5,vaginal birth,PROM,no,no,no,no,6 to 24 hrs,female,1570,39,31,8,10,7,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt746,spontaneus,asthma,no,26,24.6,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2635,48.5,32.5,3,8,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt780,spontaneus,No,no,27,24,1,0,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2260,47,30,6,8,5,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt786,spontaneus,No,no,25,23.8,1,0,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,44,35,8,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt791,spontaneus,No,no,30,23.8,1,0,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2620,47,32.5,8,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt904,spontaneus,ht,antihipertansive,31,28.9,1,0,35,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2250,44,32,8,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt988,ıvf,No,no,33,28.9,5,3,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3755,50,35,7,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt990,ıvf,No,no,17,28.9,1,0,34,5,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2970,41,33,8,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt1038,spontaneus,No,no,22,27.8,1,0,36,5,vaginal birth,PROM,yes,2 doses 24hrs  interval,no,no,>7 days,male,2670,50,33,7,9,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt1065,spontaneus,No,no,37,28.9,2,1,36,6,Cesarean,oligohidramniosis,no,no,no,no,0 to 6 hrs,female,3100,49,35.5,6,8,2,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt307,ıvf,No,no,30,30.8,1,0,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2900,49,37,6,0,4,no,no,yes,cpap,no,resp. distress,none,0,1,1,NONE,no
+Pt322,spontaneus,No,no,23,30.5,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2760,45,35,6,8,1,no,no,yes,cpap,no,resp. distress,none,0,1,1,NONE,no
+Pt413,spontaneus,DM,no,40,29.3,3,2,34,6,Cesarean,placental anomalia,no,no,no,no,6 to 24 hrs,female,1480,38,29,6,8,10,yes,no,yes,cpap,no,resp. distress,none,0,0,1,NONE,no
+Pt633,spontaneus,No,no,39,26.2,3,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3190,51,35,8,8,4,no,no,yes,cpap,no,resp. distress,none,0,1,1,NONE,no
+Pt540,spontaneus,No,no,23,27.3,2,1,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2635,48.5,33,4,6,1,no,no,yes,cpap,no,others,none,1,0,1,NONE,yes
+Pt36,spontaneus,DM,no,35,40.4,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3170,42,33,7,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,2,2,NONE,no
+Pt58,spontaneus,No,4.6,33,38.1,3,2,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2840,47,34,7,9,4,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt197,ıvf,No,no,30,33.1,1,0,34,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2670,50,36,5,6,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt225,spontaneus,No,no,29,32.4,2,0,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,51,33,7,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt264,spontaneus,No,no,18,31.6,1,0,34,1,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1660,42,30,6,9,7,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt553,spontaneus,No,no,28,27.2,2,1,36,0,Cesarean,4.7,no,no,no,no,0 to 6 hrs,female,2845,50,32,7,8,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt610,spontaneus,DM,no,34,26.4,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3110,50,35,8,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt670,spontaneus,No,no,23,25.7,1,0,36,1,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2720,49,35,7,8,2,no,no,yes,cpap,no,resp. distress,TTN,0,3,2,NONE,no
+Pt676,spontaneus,4.8,antihipertansive,28,25.6,4,2,35,5,Cesarean,oligohidramniosis,no,no,no,no,0 to 6 hrs,male,2540,35,33,7,9,5,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt696,spontaneus,No,no,36,25.3,4,3,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2820,48,34,9,10,2,no,no,yes,cpap,no,resp. distress,TTN,0,0,2,NONE,no
+Pt711,spontaneus,hypo-hyperthyroidia,1.4,38,25,1,0,35,4,Cesarean,PROM,yes,2 doses 24hrs  interval,no,no,>7 days,male,2760,41,33,7,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,0,2,NONE,no
+Pt755,spontaneus,No,no,39,24.4,2,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2750,48,35,7,10,5,no,yes,yes,cpap,no,resp. distress,TTN,0,0,2,NONE,no
+Pt861,spontaneus,No,anticoagülan,30,21.6,1,0,34,1,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2840,45.2,33.9,7,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,0,2,NONE,no
+Pt953,spontaneus,No,no,33,28.9,3,2,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2675,47.8,37,6,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,2,2,NONE,no
+Pt1008,ıvf,No,no,36,28.9,2,1,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1980,48.4,30,8,9,2,no,no,yes,cpap,no,resp. distress,TTN,0,1,2,NONE,no
+Pt1009,spontaneus,No,no,37,28.9,2,1,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2910,50,34,7,9,2,no,no,yes,cpap,no,resp. distress,none,0,0,2,NONE,no
+Pt2,spontaneus,No,no,33,45.7,3,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3050,49,36,8,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,3,NONE,no
+Pt198,spontaneus,3.4,2.4,33,33,3,1,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3220,52,35,7,7,7,no,no,yes,cpap,no,resp. distress,TTN,0,2,3,NONE,no
+Pt241,spontaneus,other,no,33,32,3,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3050,49,35,4,7,6,no,no,yes,cpap,no,resp. distress,TTN,0,3,3,NONE,no
+Pt328,spontaneus,No,no,19,30.5,1,0,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2665,48,34,7,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,1,3,NONE,no
+Pt542,spontaneus,No,no,29,27.3,2,1,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2788,45.7,33,5,7,3,no,no,yes,cpap,no,resp. distress,TTN,0,0,3,NONE,no
+Pt701,spontaneus,asthma,anticoagülan,25,25.2,3,0,36,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2490,50,34,7,9,3,no,no,yes,cpap,no,resp. distress,TTN,0,2,3,NONE,no
+Pt813,spontaneus,No,no,23,23.4,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2290,46,34,6,9,5,no,no,yes,cpap,no,resp. distress,TTN,0,1,3,NONE,no
+Pt896,spontaneus,ht,no,28,28.9,2,1,34,6,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,1900,45.4,37,6,8,9,no,no,yes,cpap,no,resp. distress,TTN,0,0,3,NONE,no
+Pt1035,spontaneus,No,no,31,28.9,1,0,34,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3150,47,30,5,7,4,no,no,yes,cpap,no,resp. distress,TTN,0,1,3,NONE,no
+Pt1037,spontaneus,No,no,25,28.9,4,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2220,47,35,6,8,2,no,no,yes,cpap,no,resp. distress,TTN,0,3,3,NONE,no
+Pt1076,spontaneus,No,no,37,28.9,2,1,36,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3050,51.8,30,2,6,3,no,no,yes,cpap,no,resp. distress,TTN,0,0,3,NONE,no
+Pt512,spontaneus,No,no,28,27.7,2,1,35,0,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,no,no,>7 days,female,2500,45,33,6,9,8,no,no,yes,cpap,no,resp. distress,pneumonia,0,3,4,NONE,no
+Pt5,spontaneus,No,no,25,44.3,3,2,34,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2870,47,35,6,8,7,no,no,yes,cpap,no,resp. distress,TTN,0,4,4,NONE,no
+Pt115,spontaneus,No,no,29,35.3,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2645,50.5,33,5,8,4,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt174,spontaneus,No,no,38,33.3,7,1,34,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,1880,44,32,7,5,7,no,no,yes,cpap,no,resp. distress,TTN,0,0,4,NONE,no
+Pt369,spontaneus,No,no,27,29.8,2,1,35,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2425,45,33,5,8,6,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt524,spontaneus,No,no,37,27.5,3,2,36,2,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2275,45.7,37,7,8,5,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt570,spontaneus,No,no,43,27.1,5,0,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2830,46,33,7,9,9,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt645,spontaneus,No,no,25,26,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2720,49,34,6,0,4,no,yes,yes,cpap,no,resp. distress,TTN,0,3,4,NONE,no
+Pt649,spontaneus,No,no,25,26,1,0,34,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,48,36,7,9,5,no,yes,yes,cpap,no,resp. distress,TTN,0,3,4,NONE,no
+Pt686,spontaneus,No,anticoagülan,33,25.5,3,1,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2520,43,35.5,7,9,7,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt885,spontaneus,No,no,33,18,4,3,36,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2780,47,34,8,9,5,no,yes,yes,cpap,no,resp. distress,TTN,0,3,4,NONE,no
+Pt964,spontaneus,No,no,31,28.9,4,2,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3040,46.8,35.5,7,9,5,no,no,yes,cpap,no,resp. distress,TTN,0,1,4,NONE,no
+Pt440,spontaneus,No,no,20,28.9,2,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2450,45,32,8,9,6,no,no,yes,cpap,no,resp. distress,TTN,2,1,4,NONE,no
+Pt931,spontaneus,other,no,39,28.9,3,2,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3200,46,33,5,7,8,no,no,yes,cpap,no,resp. distress,pneumonia,0,4,5,NONE,no
+Pt175,spontaneus,ht,antihipertansive,30,33.3,1,0,34,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,1930,45,30,5,7,6,no,no,yes,cpap,no,resp. distress,TTN,0,1,5,NONE,no
+Pt575,spontaneus,No,no,25,27,3,2,35,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2490,44,33,8,9,6,no,no,yes,cpap,no,resp. distress,TTN,0,3,5,NONE,no
+Pt639,spontaneus,No,no,36,26.1,3,2,36,1,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2930,41.5,37,8,9,7,no,no,yes,cpap,no,resp. distress,TTN,0,3,5,NONE,no
+Pt331,spontaneus,No,no,26,30.4,2,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2660,43,34,8,9,5,no,no,yes,cpap,no,resp. distress,none,0,1,5,NONE,no
+Pt924,spontaneus,No,no,29,28.9,3,1,35,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2980,50,36,8,9,5,no,no,yes,cpap,no,resp. distress,TTN,2,3,5,NONE,no
+Pt816,ıvf,DM,thyroid,40,23.2,2,1,36,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,3000,49,36,8,9,6,no,no,yes,cpap,no,resp. distress,TTN,0,5,6,NONE,no
+Pt105,spontaneus,preeclampsi,no,24,35.7,1,0,35,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2570,47,34,7,7,9,no,no,yes,cpap,no,resp. distress,RDS + Pneumonia,0,5,7,NONE,no
+Pt462,ıvf,No,no,26,28.4,1,0,34,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2150,43,33,9,9,0,no,no,yes,cpap,no,resp. distress,RDS + Pneumonia,0,4,7,NONE,yes
+Pt417,spontaneus,No,no,29,29.1,2,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2305,44,34,7,9,9,no,no,yes,cpap,no,resp. distress,TTN,0,3,7,NONE,no
+Pt475,spontaneus,2.4,1.2,30,28.2,3,2,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2180,41,32,8,9,11,no,no,yes,cpap,no,resp. distress,TTN,0,5,7,NONE,no
+Pt325,spontaneus,No,no,28,30.5,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2555,45,35,7,9,8,no,no,yes,cpap,no,resp. distress,Pneumothorax,3,3,7,NONE,no
+Pt383,spontaneus,No,no,37,29.7,3,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3100,55,35,8,9,7,no,no,yes,cpap,no,resp. distress,RDS + Pneumonia,4,0,7,NONE,no
+Pt1014,spontaneus,No,no,35,28.9,3,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2355,46.5,32,6,8,9,no,no,yes,cpap,no,resp. distress,TTN,4,2,7,NONE,yes
+Pt835,spontaneus,No,no,38,22.6,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2850,49,35,7,9,0,no,no,yes,cpap,no,resp. distress,TTN,0,3,8,NONE,no
+Pt184,spontaneus,hypo-hyperthyroidia,thyroid,34,33.2,2,1,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2710,47,34,8,9,11,no,no,yes,cpap,no,resp. distress,pneumonia,5,2,8,NONE,no
+Pt1058,spontaneus,No,no,29,27.8,2,0,34,0,Cesarean,oligohidramniosis,yes,2 doses 24hrs  interval,no,no,>7 days,male,2525,48.2,31.8,8,9,8,no,no,yes,cpap,no,resp. distress,TTN,0,0,9,NONE,no
+Pt77,ıvf,No,2.6,38,37.1,2,1,36,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,3280,52.4,37,8,10,10,yes,no,yes,cpap,no,resp. distress,Pneumothorax,5,2,9,NONE,no
+Pt1068,spontaneus,No,no,20,28.9,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2520,43.9,30,6,8,10,no,no,yes,cpap,no,resp. distress,RDS + Pneumothorax,0,6,10,NONE,yes
+Pt803,spontaneus,DM,antihipertansive,33,23.6,4,2,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2840,48,33,8,9,10,no,no,yes,cpap,no,resp. distress,RDS,5,3,10,NONE,no
+Pt754,spontaneus,No,no,21,24.5,4,1,34,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2710,47,33,8,9,18,no,no,yes,cpap,no,resp. distress,RDS,6,5,17,NONE,no
+Pt75,spontaneus,No,no,26,37.1,4,3,34,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2740,44,35,7,9,5,no,yes,yes,cpap,no,resp. distress,TTN,1,1,42,NONE,no
+Pt223,spontaneus,No,no,35,32.4,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3380,48,36,8,9,10,no,no,yes,cpap,no,resp. distress,TTN,0,0,0,NONE,no
+Pt447,spontaneus,No,no,40,28.8,3,1,34,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2555,43,35,6,8,5,no,no,yes,cpap,no,resp. distress,TTN,0,0,0,NONE,no
+Pt167,spontaneus,3.4,2.4,44,33.6,4,3,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,47,33,6,8,2,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt9,spontaneus,No,anticoagülan,35,42.6,1,0,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3875,52,35,4,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt33,spontaneus,No,no,32,40.6,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3160,47,35,7,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt43,spontaneus,DM,insulin + OAD,35,39.4,5,3,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3985,50,36,8,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt63,spontaneus,other,no,31,37.9,3,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2523,44,35,4,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt67,spontaneus,2.3,antihipertansive,35,37.6,5,2,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2280,49,33,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt684,ıvf,No,no,34,25.5,1,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3230,50,36,7,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt68,spontaneus,No,no,31,37.5,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3350,49,35,8,8,4,no,no,yes,cpap,no,resp. distress,none,0,0,0,NONE,no
+Pt61,spontaneus,No,no,22,37.9,1,0,36,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2850,45,31,8,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt128,spontaneus,No,no,24,34.8,2,0,35,1,Cesarean,PROM,yes,2 doses 24hrs  interval,no,no,>7 days,female,2610,47.6,30.7,5,7,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt142,ıvf,No,no,31,34.2,4,0,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2360,45,32,6,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt146,spontaneus,2.4,thyroid,27,34.2,1,0,35,3,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,male,1770,42,29,9,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt183,spontaneus,No,no,28,33.2,2,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2480,48,31.5,8,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt278,spontaneus,No,no,24,31.3,1,0,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2740,47,33,6,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt279,spontaneus,other,no,22,31.3,2,1,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2600,47.5,37,5,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt296,spontaneus,DM,insulin + OAD,40,31.1,3,1,34,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1900,45,33,6,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt329,spontaneus,No,no,26,30.4,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2810,47,33,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt333,spontaneus,No,no,24,30.4,2,1,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2260,45,32,4,7,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt339,spontaneus,ht,anticoagülan,40,30.1,4,1,36,5,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2450,50,32,3,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt356,spontaneus,2.6,1.3,30,30.1,5,2,35,2,Cesarean,preterm eylem,yes,single dose,no,no,>7 days,male,2740,49,33,3,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt386,spontaneus,DM,insulin + OAD,25,29.7,3,1,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3400,50,37,8,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt436,ıvf,No,no,33,29,4,0,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2610,48.5,33,8,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt455,spontaneus,No,no,31,28.6,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2885,49,32,6,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt461,spontaneus,other,no,29,28.4,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2710,48,35,9,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt481,spontaneus,No,insulin + OAD,40,28.1,6,4,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2450,49,34,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt487,spontaneus,No,no,33,28,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3190,49,35,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt506,ıvf,No,no,19,27.8,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3335,51,35,8,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt515,spontaneus,No,anticoagülan,31,27.6,4,3,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2880,51,34,6,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt525,spontaneus,No,no,37,27.5,3,2,35,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2860,46,32,6,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt557,ıvf,hypo-hyperthyroidia,2.6,30,27.2,2,0,35,5,Cesarean,preterm eylem,yes,single dose,no,no,>7 days,male,2850,46,34,6,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt596,spontaneus,2.3,1.4,38,26.7,1,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3255,51,35.5,6,7,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt599,spontaneus,No,no,30,26.6,1,0,35,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2450,48,30,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt629,spontaneus,other,no,24,26.2,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3280,49,35,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt654,spontaneus,hypo-hyperthyroidia,thyroid,37,25.9,4,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2820,50,35,6,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt664,spontaneus,No,no,21,25.7,1,0,36,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2000,43,31,7,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt697,spontaneus,cholestasis,no,32,25.3,2,1,36,0,vaginal birth,none,no,no,no,no,0 to 6 hrs,male,2450,47,33,7,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt702,spontaneus,No,no,38,25.2,4,1,36,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3105,46.6,30,5,7,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt720,spontaneus,No,no,22,25,1,0,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3250,49,33,5,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt766,spontaneus,No,no,26,24.2,1,0,34,4,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2970,37,46,5,7,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt776,spontaneus,other,no,29,24.1,1,0,34,1,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,2 to 7 days,female,1345,38,28,8,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt817,spontaneus,No,no,27,23.2,1,0,35,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2605,43,32,1,6,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt907,spontaneus,No,no,35,28.9,3,1,34,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2470,44,30,8,9,0,yes,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt927,spontaneus,No,no,37,28.9,2,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2220,42,32,7,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1056,ıvf,No,no,32,27.8,1,0,35,1,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,0 to 6 hrs,male,2360,45,32,6,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt154,spontaneus,No,no,33,33.9,1,0,34,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2090,46.1,37,7,9,6,no,yes,yes,cpap,no,resp. distress,pneumonia,0,5,8,Ha PDA,no
+Pt280,ıvf,No,no,25,31.3,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2720,48,34,7,9,6,no,no,yes,cpap,no,resp. distress,TTN,0,1,1,NONE,no
+Pt790,spontaneus,No,no,24,23.8,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2560,47,35,9,9,6,no,no,yes,cpap,no,resp. distress,Pneumothorax,0,2,6,NONE,no
+Pt92,spontaneus,hypo-hyperthyroidia,antihipertansive,24,36.6,3,2,35,0,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2585,46,34,7,8,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt200,spontaneus,No,no,31,32.9,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3260,50,34,8,9,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt376,spontaneus,No,no,31,29.7,3,2,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2580,49,33,7,8,0,none,none,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt459,spontaneus,No,no,39,28.5,4,3,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3200,50,37,9,8,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt543,spontaneus,No,no,27,27.3,2,1,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1580,42,31,7,9,0,none,none,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1046,spontaneus,No,no,41,28.9,4,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3205,48,33,5,7,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1052,spontaneus,No,no,25,28.9,1,0,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2850,49,33,6,8,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt783,spontaneus,No,no,31,23.9,3,2,34,2,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2300,44,33,8,9,6,none,no,yes,cpap,no,resp. distress,none,0,0,0,NONE,no
+Pt986,spontaneus,No,thyroid,37,28.9,1,0,35,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,3596,45.9,30,5,8,30,none,none,yes,cpap,no,resp. distress,none,0,0,0,NONE,no
+Pt607,spontaneus,No,no,31,26.6,4,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,47,34,7,8,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt308,spontaneus,preeclampsi,antihipertansive,35,30.8,3,2,34,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,1825,33,30,7,9,7,no,yes,yes,hood only,early,resp. distress,TTN,0,0,6,NONE,no
+Pt162,spontaneus,hypo-hyperthyroidia,thyroid,35,33.7,3,1,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2400,49,33,7,9,1,no,no,yes,hood only,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt1000,spontaneus,preeclampsi,no,37,27.8,3,2,34,1,Cesarean,preeclampsia,yes,2 doses 24hrs  interval,no,no,>7 days,female,1935,46,34,6,7,5,no,no,yes,hood only,no,resp. distress,TTN,0,0,1,NONE,no
+Pt206,spontaneus,3.4,2.4,25,32.8,2,0,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3640,50,34,4,7,7,no,no,yes,hood only,no,resp. distress,TTN,0,0,2,NONE,no
+Pt227,spontaneus,DM,1.6,31,32.3,1,0,34,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,2 to 7 days,female,2750,49,33,6,8,2,no,no,yes,hood only,no,resp. distress,TTN,0,1,2,NONE,no
+Pt564,spontaneus,No,no,29,27.1,2,1,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1980,43,31,6,9,6,no,no,yes,hood only,no,resp. distress,TTN,0,0,2,NONE,no
+Pt1030,spontaneus,No,no,21,28.9,1,0,34,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2580,46.5,37,5,8,4,no,yes,yes,hood only,no,resp. distress,TTN,0,1,2,NONE,no
+Pt590,spontaneus,No,no,28,26.8,4,1,34,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3010,48,34,5,7,3,no,no,yes,hood only,no,resp. distress,TTN,0,0,3,NONE,no
+Pt767,spontaneus,No,antihipertansive,32,24.2,3,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,48,35,9,10,6,no,no,yes,hood only,no,resp. distress,TTN,0,5,5,NONE,no
+Pt913,spontaneus,No,no,36,28.9,5,3,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2750,50,34,7,8,7,no,no,yes,hood only,no,resp. distress,Pneumothorax,0,4,6,NONE,no
+Pt1028,spontaneus,No,no,29,28.9,1,0,35,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1865,43.2,30,7,9,11,no,no,yes,hood only,no,resp. distress,none,0,0,7,NONE,no
+Pt313,spontaneus,No,no,22,30.8,2,0,34,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2395,41,33,6,8,9,no,no,yes,hood only,no,resp. distress,TTN,0,8,9,NONE,no
+Pt26,spontaneus,3.4,no,36,41.7,1,0,35,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2610,47,32,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt40,spontaneus,No,no,28,39.7,2,1,35,0,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2825,48,34,6,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt70,spontaneus,DM,insulin + OAD,35,37.5,3,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,4200,51,37,7,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt76,ıvf,hypo-hyperthyroidia,antihipertansive,38,37.1,3,2,36,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,4010,51,35,7,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt180,spontaneus,hypo-hyperthyroidia,thyroid,22,33.3,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3115,51,36,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt182,spontaneus,No,no,31,33.2,2,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2685,46,33,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt190,spontaneus,asthma,no,33,33.2,3,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3420,50,35,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt210,spontaneus,hypo-hyperthyroidia,thyroid,40,32.8,3,2,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2510,44,33,6,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt212,ıvf,No,no,25,32.8,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3800,54,37,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt338,spontaneus,No,no,27,30.2,3,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2970,50,35,6,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt343,spontaneus,No,no,24,30.1,1,0,34,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2190,43,34,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt444,spontaneus,No,anticoagülan,37,28.9,5,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3190,50,38,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt465,spontaneus,No,no,29,28.4,2,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3380,51,35,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt500,spontaneus,No,no,34,27.9,1,0,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2330,44,30,6,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt502,spontaneus,preeclampsi,no,26,27.8,2,1,34,1,Cesarean,preeclampsia,yes,2 doses 24hrs  interval,no,no,2 to 7 days,female,1870,41,33,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt665,spontaneus,10.4,insulin + OAD,27,25.7,3,2,34,6,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2200,44,32,8,0,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt742,spontaneus,No,no,31,24.7,6,1,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2320,45,35,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt795,ıvf,No,no,22,23.7,1,0,35,5,Cesarean,fetal distress,yes,2 doses 24hrs  interval,no,no,>7 days,female,2780,46,33,5,7,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt807,spontaneus,No,no,25,23.5,4,2,33,6,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,6 to 24 hrs,female,2340,45,33,7,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt862,spontaneus,hypo-hyperthyroidia,thyroid,20,21.5,2,0,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,46,34,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt891,spontaneus,other,1.6,32,27.8,2,1,34,3,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2200,43,31,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt912,spontaneus,No,no,40,28.9,2,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2610,50,33,4,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt936,ıvf,No,no,26,28.9,1,0,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2810,49,33,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt995,ıvf,No,no,36,28.9,3,0,36,6,Cesarean,oligohidramniosis,no,no,no,no,0 to 6 hrs,female,2870,45,35,6,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt442,spontaneus,hypo-hyperthyroidia,thyroid,24,28.9,1,0,34,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2070,46,35,7,9,2,no,yes,yes,hood only,no,sepsis,TTN,0,0,2,NONE,no
+Pt104,spontaneus,No,no,28,35.9,3,2,34,5,Cesarean,oligohidramniosis,no,no,no,no,0 to 6 hrs,female,2675,47,34,7,0,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt555,spontaneus,No,no,31,27.2,3,2,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3500,51,36,8,9,0,none,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt740,spontaneus,No,no,32,24.7,2,1,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2080,44,33,7,8,0,none,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt844,spontaneus,No,no,24,22.2,3,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2410,46,34,7,9,0,none,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt874,spontaneus,No,no,25,20.7,4,3,34,1,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,24 to 48 hrs,male,2150,44,31,7,8,0,none,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt434,spontaneus,No,no,20,29,1,0,36,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,3115,48,34.5,5,8,17,no,yes,yes,intubation,late,others,none,0,0,0,NONE,no
+Pt362,spontaneus,migren,no,25,30,1,0,34,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2060,38,30.5,2,5,7,no,no,yes,intubation,no,asfiksia,none,1,2,6,IVK,no
+Pt1029,spontaneus,No,no,32,28.9,4,2,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1610,46.2,32.5,1,5,16,no,no,yes,intubation,no,resp. distress,pneumonia,0,0,0,NONE,no
+Pt948,spontaneus,other,anticoagülan,32,28.9,4,1,34,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,1900,48,34,1,3,2,no,no,yes,intubation,no,others,none,2,0,2,NONE,yes
+Pt969,ıvf,DM,insulin + OAD,35,28.9,4,2,34,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2480,40,37,3,6,39,none,no,yes,intubation,no,others,none,0,0,0,Ha PDA,yes
+Pt170,spontaneus,No,no,39,33.4,4,2,36,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,3260,49,34,7,9,8,no,no,no,none,early,resp. distress,RDS,2,2,5,Ha PDA,no
+Pt163,spontaneus,hypo-hyperthyroidia,thyroid,30,33.7,1,0,35,1,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1440,39.5,30,7,8,19,yes,no,no,none,late,resp. distress,none,0,0,0,NONE,no
+Pt933,spontaneus,DM,no,35,28.9,8,4,36,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,1870,47.3,30,8,9,14,no,yes,no,none,late,resp. distress,none,0,0,0,NONE,no
+Pt993,spontaneus,ht,antihipertansive,35,28.9,1,0,35,0,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,1395,37,30,7,9,20,no,no,no,none,late,resp. distress,none,0,0,0,NONE,no
+Pt872,spontaneus,No,no,21,21.1,4,0,36,5,Cesarean,1.4,no,no,no,no,0 to 6 hrs,male,1840,46,30,7,9,13,no,yes,no,none,late,resp. distress,none,0,0,2,NONE,no
+Pt687,spontaneus,No,no,31,25.4,3,2,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2630,46,32.5,7,8,5,no,no,no,none,no,others,none,0,0,0,Ha PDA,no
+Pt476,ıvf,No,no,34,28.2,1,0,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2420,48,32,8,9,3,no,no,no,none,no,others,none,0,0,1,Ha PDA,no
+Pt810,spontaneus,No,no,23,23.4,4,2,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2860,50,35,9,9,9,no,no,no,none,no,resp. distress,TTN,2,0,5,IVK,no
+Pt127,spontaneus,No,no,31,34.8,1,0,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2470,44,29,8,9,1,no,no,no,none,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt248,spontaneus,hypo-hyperthyroidia,no,30,32,2,1,36,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2670,48,34,8,9,6,no,no,no,none,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt519,spontaneus,No,no,39,27.5,4,1,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2830,48,34,9,8,2,no,no,no,none,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt836,spontaneus,No,no,32,22.5,2,1,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2290,50.8,37,8,10,3,yes,no,no,none,no,hypoglycemia,none,0,0,0,NONE,no
+Pt276,spontaneus,migren,no,31,31.3,2,1,35,6,Cesarean,covid,no,no,no,no,0 to 6 hrs,female,2950,44.7,37,8,9,3,no,yes,no,none,no,others,none,0,0,0,NONE,no
+Pt901,spontaneus,other,anticoagülan,31,28.9,5,2,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1985,43,30.5,7,9,7,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt961,spontaneus,No,no,43,28.9,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3210,41.4,30,7,9,4,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt1001,spontaneus,other,no,35,28.9,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2965,50.5,37,7,9,6,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt1003,spontaneus,No,no,18,28.9,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2850,50,35,8,9,3,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt39,spontaneus,preeclampsi,1.6,39,40.1,1,0,34,1,Cesarean,3.4,no,no,no,no,0 to 6 hrs,male,1370,39,29,7,9,21,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt209,spontaneus,No,no,34,32.8,4,0,36,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2040,46,32,8,10,3,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt216,spontaneus,No,no,30,32.7,1,0,34,3,Cesarean,placental anomalia,yes,single dose,no,no,>7 days,male,2050,44,31.5,6,9,9,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt295,spontaneus,ht,antihipertansive,21,31.1,2,1,36,6,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,no,no,>7 days,male,1890,42,32,7,7,8,no,yes,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt310,spontaneus,No,no,23,30.8,1,0,34,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1960,47,27,7,9,8,no,yes,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt316,spontaneus,3.8,insulin + OAD,27,30.5,2,0,35,5,Cesarean,5.6,no,no,no,no,0 to 6 hrs,female,1720,42,31,8,10,3,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt504,spontaneus,hypo-hyperthyroidia,thyroid,36,27.8,3,2,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1870,44,31,6,0,4,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt579,spontaneus,hypo-hyperthyroidia,thyroid,29,26.9,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1505,41,31,7,9,5,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt615,spontaneus,No,no,29,26.4,2,1,34,0,Cesarean,oligohidramniosis,yes,2 doses 24hrs  interval,no,no,2 to 7 days,female,1820,42,30.5,8,9,6,no,yes,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt680,spontaneus,No,no,23,25.6,1,0,35,1,Cesarean,3.4,no,no,no,no,0 to 6 hrs,female,1800,42,31,9,10,7,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt724,ıvf,No,no,22,25,2,1,34,4,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,1670,46.5,32.6,8,8,4,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt735,spontaneus,No,no,25,24.8,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1980,43,30,8,9,5,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt794,spontaneus,No,no,36,23.7,3,2,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2480,45,34,7,9,1,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt827,spontaneus,No,no,38,22.9,8,4,34,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2615,49,33,7,9,2,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt834,spontaneus,No,no,34,22.6,1,0,34,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,1700,47,30,7,10,5,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt858,spontaneus,ht,antihipertansive,40,21.8,4,1,34,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2080,44,31,8,10,1,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt875,spontaneus,other,no,30,20.3,1,0,34,0,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,24 to 48 hrs,male,2020,49,31,7,9,5,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt897,spontaneus,hypo-hyperthyroidia,thyroid,30,28.9,4,1,35,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1610,50,36,8,9,7,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt965,spontaneus,No,no,23,28.9,1,0,35,1,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1730,48.6,37,7,8,10,yes,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt966,spontaneus,ht,antihipertansive,23,28.9,1,0,35,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1890,52.1,30,6,8,7,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt968,spontaneus,No,no,39,28.9,5,3,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1820,47,35,6,8,1,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt979,spontaneus,No,anticoagülan,31,28.9,2,1,34,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1815,43,33,7,9,6,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt989,ıvf,preeclampsi,antihipertansive,38,28.9,3,1,34,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,1830,38,32,6,7,7,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt922,spontaneus,No,no,35,28.9,3,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2440,48,32,7,9,1,no,no,no,none,no,resp. distress,TTN,0,1,1,NONE,no
+Pt569,spontaneus,No,no,27,27.1,2,1,34,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2500,47.5,30,8,9,2,no,no,no,none,no,resp. distress,none,0,1,1,NONE,no
+Pt730,spontaneus,No,no,31,24.9,1,0,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2875,52,35,8,9,2,no,no,no,none,no,resp. distress,TTN,0,1,2,NONE,no
+Pt967,spontaneus,3.4,2.6,29,28.9,2,1,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3680,50,37,5,10,3,no,no,no,none,no,resp. distress,TTN,0,0,2,NONE,no
+Pt983,spontaneus,No,no,27,28.9,2,0,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2600,48,32,7,9,4,no,yes,no,none,no,resp. distress,TTN,0,0,2,NONE,no
+Pt699,spontaneus,No,no,43,25.3,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2660,48,33,8,9,4,no,no,no,none,no,resp. distress,TTN,0,2,3,NONE,no
+Pt899,spontaneus,other,no,33,28.9,2,0,34,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1470,40,30.5,4,8,11,no,no,no,none,no,resp. distress,TTN,0,1,4,NONE,no
+Pt59,spontaneus,preeclampsi,no,32,38.1,4,1,35,0,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2680,52.2,37,6,8,6,no,no,no,none,no,resp. distress,TTN,0,0,5,NONE,no
+Pt495,spontaneus,No,no,24,27.9,1,0,32,4,Cesarean,preterm eylem,yes,single dose,no,no,6 to 24 hrs,male,1730,41,31.5,8,9,10,no,no,no,none,no,resp. distress,none,0,0,7,NONE,no
+Pt606,spontaneus,No,no,23,26.6,2,1,34,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2185,43,33,8,9,13,no,no,no,none,no,resp. distress,pneumonia,0,7,9,NONE,no
+Pt391,spontaneus,hypo-hyperthyroidia,no,34,29.7,1,0,34,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1465,38,28,7,9,15,no,no,no,none,no,resp. distress,none,0,0,9,NONE,no
+Pt250,spontaneus,migren,no,39,32,3,2,35,4,Cesarean,oligohidramniosis,no,no,no,no,0 to 6 hrs,female,2480,48,33,7,10,16,yes,no,no,none,no,others,none,0,0,11,NONE,no
+Pt3,spontaneus,hypo-hyperthyroidia,thyroid,31,44.4,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2270,45,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt7,spontaneus,No,1.4,35,43.1,1,0,36,5,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,3165,47,33,10,10,0,yes,no,no,none,no,none,none,0,0,0,NONE,no
+Pt8,spontaneus,No,no,39,42.6,6,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3225,48,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt12,spontaneus,No,no,26,42,2,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,46,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt14,spontaneus,2.3,no,36,44.4,1,0,36,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2540,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt15,ıvf,No,no,25,44.3,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3260,48,35.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt17,spontaneus,No,thyroid,44,44,5,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3520,50,35,5,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt18,spontaneus,No,anticoagülan,33,43.1,3,2,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3450,51,36,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt20,spontaneus,No,no,31,42.6,2,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2925,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt21,spontaneus,No,no,37,42.5,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2920,50.5,34.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt22,spontaneus,3.4,2.4,32,42.2,4,1,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2460,37,32,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt23,spontaneus,hypo-hyperthyroidia,thyroid,32,41.9,3,2,36,2,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,male,2690,51,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt27,spontaneus,ht,antihipertansive,26,41.7,3,0,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2490,51,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt29,spontaneus,No,no,23,41.2,1,0,35,1,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2815,43,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt32,spontaneus,No,no,27,40.7,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3025,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt34,spontaneus,preeclampsi,no,27,40.5,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3185,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt35,spontaneus,DM,insulin + OAD,34,40.5,2,1,36,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2920,47,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt37,spontaneus,No,no,33,40.4,5,3,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2830,47,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt41,spontaneus,preeclampsi,antihipertansive,39,39.7,3,2,36,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2370,46,33,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt46,spontaneus,DM,no,37,39,2,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2790,43,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt47,spontaneus,2.3,1.4,35,39,2,1,36,6,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,3685,53,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt49,spontaneus,No,no,35,38.8,4,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3430,52,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt50,spontaneus,No,no,33,38.4,4,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2180,46,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt51,spontaneus,No,no,29,38.4,1,0,36,3,vaginal birth,none,no,no,no,no,0 to 6 hrs,female,3140,50,33.5,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt52,spontaneus,No,no,38,38.4,2,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2880,50,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt53,spontaneus,DM,no,36,38.3,3,2,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2805,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt54,spontaneus,preeclampsi,antihipertansive,42,38.3,3,2,36,4,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,4065,52,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt55,spontaneus,No,no,30,38.3,1,0,36,4,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,3680,54,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt56,spontaneus,asthma,insulin + OAD,29,38.1,3,2,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3350,50,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt57,spontaneus,DM,insulin + OAD,23,38.1,3,1,34,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,3200,51,35,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt64,spontaneus,No,no,39,37.8,4,3,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2810,46.8,37,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt65,spontaneus,DM,insulin + OAD,36,37.7,9,3,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3110,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt71,IUI,hypo-hyperthyroidia,thyroid,33,37.3,1,0,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2750,48,35.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt72,spontaneus,DM,antihipertansive,27,37.3,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3100,54,33,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt73,spontaneus,2.3,2.4,27,37.2,1,0,36,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2990,51,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt74,spontaneus,DM,insulin + OAD,33,37.1,3,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3020,52,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt78,spontaneus,DM,1.4,42,37.1,6,3,36,6,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,female,2870,52,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt79,spontaneus,ht,no,26,37.1,5,4,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2000,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt80,spontaneus,No,no,39,37,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2940,51,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt81,spontaneus,No,no,35,37,3,1,36,1,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,1770,43,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt82,spontaneus,DM,no,32,36.9,3,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3670,49,38,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt83,spontaneus,3.4,thyroid,34,36.8,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3500,49,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt84,spontaneus,DM,no,27,36.8,4,2,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3230,48,36,8,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt85,spontaneus,cholestasis,no,26,36.8,1,0,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2610,46,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt87,spontaneus,3.4,no,22,36.7,1,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,3270,49,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt91,spontaneus,DM,insulin + OAD,32,36.6,2,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3600,47,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt93,spontaneus,No,no,30,36.5,1,0,35,1,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2040,44,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt94,spontaneus,other,anticoagülan,39,36.4,6,4,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3500,52,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt95,spontaneus,ht,1.6,32,36.3,4,2,36,4,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,male,3190,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt96,spontaneus,2.3,insulin + OAD,29,36.3,1,0,34,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2765,50,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt98,spontaneus,DM,insulin + OAD,23,36.1,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2850,50,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt100,spontaneus,DM,insulin + OAD,39,36,2,1,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3600,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt101,spontaneus,No,no,24,36,1,0,35,1,Cesarean,preterm eylem,yes,1.4,no,no,>7 days,female,2110,44,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt102,spontaneus,No,no,33,35.9,2,1,36,6,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2930,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt103,ıvf,asthma,no,27,35.9,2,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2730,46,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt201,spontaneus,asthma,no,38,32.9,4,2,34,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2510,46,32,4,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt254,spontaneus,No,no,40,32,4,2,34,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2500,51,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt632,ıvf,No,no,27,26.2,1,0,35,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2445,48.2,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt688,spontaneus,No,no,22,25.4,2,1,35,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,3800,54,36,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt107,spontaneus,DM,insulin + OAD,28,35.7,2,1,35,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,3290,49,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt108,spontaneus,No,no,33,35.7,2,1,34,0,Cesarean,oligohidramniosis,yes,2 doses 24hrs  interval,no,no,2 to 7 days,male,2395,40,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt109,spontaneus,No,no,35,35.7,4,3,36,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2560,50,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt110,spontaneus,hypo-hyperthyroidia,no,27,35.6,1,0,35,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2170,46,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt113,spontaneus,No,no,31,35.5,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3345,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt114,spontaneus,No,no,33,35.3,3,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3010,50,34.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt116,spontaneus,No,no,25,35.3,1,0,35,4,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2690,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt117,spontaneus,No,anticoagülan,36,35.3,4,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3600,52,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt118,spontaneus,No,no,35,35.2,4,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2780,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt122,spontaneus,No,no,34,35.1,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2190,48,32,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt123,spontaneus,migren,no,35,35,4,1,36,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,3060,49.9,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt125,spontaneus,No,no,27,34.9,2,1,35,5,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2750,50,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt129,spontaneus,No,anticoagülan,37,34.8,4,3,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2680,49,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt130,ıvf,DM,no,32,34.8,2,0,36,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2430,53,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt131,spontaneus,No,no,40,34.7,2,0,36,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2730,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt132,spontaneus,No,no,34,34.7,2,2,35,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2460,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt133,spontaneus,renal disease,no,34,34.6,2,1,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2250,44,32,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt135,spontaneus,No,no,37,34.6,4,3,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3325,51,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt136,spontaneus,preeclampsi,antihipertansive,31,34.5,3,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2750,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt137,spontaneus,No,thyroid,28,34.4,1,0,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3050,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt138,spontaneus,No,no,29,34.4,1,0,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2940,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt139,spontaneus,No,no,28,34.4,2,1,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2810,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt140,spontaneus,No,no,36,34.4,5,3,36,4,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2990,48,35,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt141,ıvf,preeclampsi,antihipertansive,41,34.3,1,0,36,5,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2460,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt143,spontaneus,DM,anticoagülan,37,34.2,7,2,35,0,Cesarean,3.4,no,no,no,no,0 to 6 hrs,female,1600,42,31,8,9,27,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt144,spontaneus,No,antihipertansive,27,34.2,1,0,35,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2740,48,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt145,spontaneus,preeclampsi,antihipertansive,38,34.2,2,1,36,6,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,3330,51,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt147,spontaneus,4.7,thyroid,40,34.1,4,3,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3020,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt148,spontaneus,preeclampsi,anticoagülan,24,34.1,2,1,36,6,vaginal birth,3.4,no,no,no,no,0 to 6 hrs,male,2670,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt150,spontaneus,No,no,25,34.1,2,1,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2785,49,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt153,ıvf,No,no,23,33.9,1,0,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2990,49,33.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt156,spontaneus,DM,no,26,33.8,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3900,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt157,spontaneus,No,no,34,33.8,3,2,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2550,49,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt158,ıvf,No,anticoagülan,34,33.8,1,0,34,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2020,46,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt159,spontaneus,No,no,38,33.8,1,0,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2330,46,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt160,spontaneus,No,no,35,33.8,4,2,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2890,48,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt161,spontaneus,No,no,31,33.7,4,2,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2010,47,30,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt165,spontaneus,No,no,39,33.6,1,0,35,6,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2470,51,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt166,spontaneus,No,no,30,33.6,2,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2540,49,38,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt168,spontaneus,No,no,35,33.6,1,0,36,0,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,no,no,>7 days,male,3230,50,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt169,spontaneus,3.4,2.4,22,33.6,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3010,50,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt171,spontaneus,No,no,33,33.4,1,0,36,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3250,50,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt173,spontaneus,3.4,thyroid,40,33.3,7,4,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2790,45,35.5,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt176,spontaneus,3.4,2.4,35,33.3,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2975,51,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt177,spontaneus,DM,no,41,33.3,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3810,52,37,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt179,spontaneus,No,no,25,33.3,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3620,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt181,ıvf,hypo-hyperthyroidia,antihipertansive,26,33.3,1,0,34,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2160,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt187,spontaneus,No,no,20,33.2,3,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2530,46.1,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt188,spontaneus,hypo-hyperthyroidia,thyroid,37,33.2,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2550,44,30.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt192,spontaneus,No,anticoagülan,27,33.2,4,3,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2330,45,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt193,spontaneus,No,no,21,33.2,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3525,49,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt194,spontaneus,No,no,30,33.1,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3230,53,35,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt196,spontaneus,No,no,33,33.1,3,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,46,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt202,spontaneus,No,no,36,32.9,3,2,36,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,3300,48.3,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt203,spontaneus,hypo-hyperthyroidia,thyroid,43,32.9,4,3,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3065,41.6,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt204,ıvf,No,no,31,32.9,3,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3030,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt205,ıvf,No,no,41,32.9,3,1,36,6,Cesarean,preterm eylem,yes,single dose,no,no,0 to 6 hrs,male,3340,48,35.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt208,spontaneus,3.4,2.4,35,32.8,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2625,50,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt211,spontaneus,hypo-hyperthyroidia,2.6,33,32.8,5,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2210,48,33,9,10,0,no,none,no,none,no,none,none,0,0,0,NONE,no
+Pt213,ıvf,No,no,24,32.8,2,1,36,3,Cesarean,none,no,no,no,no,0 to 6 hrs,female,2570,44,33.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt214,spontaneus,hypo-hyperthyroidia,thyroid,30,32.7,2,0,36,1,vaginal birth,oligohidramniosis,no,no,no,no,0 to 6 hrs,female,2330,46,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt217,spontaneus,preeclampsi,no,34,32.6,4,2,36,4,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2540,48,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt218,spontaneus,No,no,32,32.6,3,2,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3600,52,32.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt219,spontaneus,No,no,36,32.5,4,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3290,52,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt221,spontaneus,ht,anticoagülan,36,32.5,2,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2605,52,34.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt224,spontaneus,preeclampsi,antihipertansive,38,32.4,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2740,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt230,ıvf,No,no,24,32.3,1,0,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2600,49,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt232,ıvf,No,no,31,32.3,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2460,46,33,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt233,spontaneus,2.9,anticoagülan,41,32.3,4,1,36,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2800,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt234,spontaneus,preeclampsi,no,24,32.2,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2660,49,32,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt236,spontaneus,No,no,30,32.1,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1810,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt237,spontaneus,other,no,39,32.1,1,0,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2300,50,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt238,spontaneus,No,no,33,32.1,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2885,45,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt239,spontaneus,No,no,30,32,2,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2720,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt243,spontaneus,No,no,33,32,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2810,49,34,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt245,spontaneus,No,no,32,32,3,2,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2450,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt246,spontaneus,No,no,33,32,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3400,53,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt249,spontaneus,No,no,23,32,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3240,51,38,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt251,spontaneus,No,no,38,32,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2960,49,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt252,spontaneus,No,no,36,32,4,2,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3380,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt253,spontaneus,No,no,33,32,3,2,36,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2600,43,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt255,spontaneus,2.4,no,29,32,1,0,36,0,Cesarean,preeclampsia,yes,single dose,no,no,>7 days,female,2490,47,35,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt256,spontaneus,No,no,28,32,1,0,36,3,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2660,45,32,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt257,spontaneus,other,anticoagülan,38,31.9,3,2,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2830,45,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt258,spontaneus,3.6,antiepileptic,20,31.9,1,0,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2050,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt260,spontaneus,No,no,21,31.6,1,0,36,6,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2310,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt261,spontaneus,No,no,25,31.6,2,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2650,48,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt262,spontaneus,No,no,31,31.6,2,1,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2760,49,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt263,spontaneus,10.5,no,36,31.6,4,3,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3730,49,38,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt265,spontaneus,No,no,26,31.6,1,0,34,0,Cesarean,fetal distress,yes,2 doses 24hrs  interval,no,no,6 to 24 hrs,male,2300,46,31,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt266,spontaneus,No,no,34,31.6,2,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2830,48,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt267,spontaneus,DM,no,35,31.6,4,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3080,48.5,30,8,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt268,spontaneus,No,no,36,31.6,3,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3500,47,35,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt270,spontaneus,No,no,39,31.5,5,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2635,45,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt271,ıvf,DM,no,34,31.4,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3620,51,34,5,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt272,spontaneus,No,no,26,31.4,3,1,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2340,45,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt275,spontaneus,2.4,1.2,40,31.3,3,2,36,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2925,50,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt277,spontaneus,No,no,31,31.3,1,0,34,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2550,46,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt281,spontaneus,No,no,40,31.3,5,4,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3540,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt282,spontaneus,No,no,34,31.3,3,2,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3173,51,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt284,spontaneus,No,no,34,31.2,1,0,36,5,Cesarean,preterm eylem,none,none,no,no,0 to 6 hrs,male,3320,52,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt286,spontaneus,No,4.6,36,31.2,5,2,34,0,vaginal birth,none,no,no,no,no,0 to 6 hrs,female,2750,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt289,spontaneus,No,no,27,31.2,2,1,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2980,50,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt293,spontaneus,No,no,40,31.2,2,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2880,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt294,ıvf,No,no,34,31.1,1,0,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2330,51,34,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt300,spontaneus,No,no,31,30.9,3,2,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2640,48,34,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt301,spontaneus,DM,insulin + OAD,44,30.9,6,2,36,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2330,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt302,spontaneus,hypo-hyperthyroidia,thyroid,23,30.9,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2400,42,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt305,spontaneus,asthma,no,29,30.9,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2830,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt306,spontaneus,hypo-hyperthyroidia,thyroid,29,30.9,4,2,36,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2680,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt309,spontaneus,3.4,2.4,37,30.8,3,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3510,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt311,spontaneus,No,no,28,30.8,2,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,3210,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt315,spontaneus,No,no,39,30.5,4,2,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,3120,49,36,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt317,spontaneus,hypo-hyperthyroidia,thyroid,25,30.5,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2470,47,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt318,spontaneus,DM,no,28,30.5,3,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2810,47,32,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt320,ıvf,hypo-hyperthyroidia,thyroid,34,30.5,2,0,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2270,46,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt323,ıvf,preeclampsi,antihipertansive,35,30.5,1,0,34,3,Cesarean,preterm eylem,yes,single dose,no,no,>7 days,male,2000,46,33,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt324,spontaneus,No,no,37,30.5,1,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2960,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt327,spontaneus,No,no,20,30.5,2,1,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2910,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt330,spontaneus,3.7,insulin + OAD,31,30.4,4,2,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3010,46,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt332,spontaneus,DM,no,35,30.4,6,2,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1960,45,30,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt334,spontaneus,cholestasis,no,24,30.4,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2310,50,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt335,spontaneus,other,anticoagülan,36,30.3,3,1,36,6,vaginal birth,none,no,no,no,no,0 to 6 hrs,female,3040,45,35.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt336,spontaneus,DM,no,32,30.3,3,2,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2620,46,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt341,spontaneus,hypo-hyperthyroidia,thyroid,28,30.1,4,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2950,55,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt342,spontaneus,hypo-hyperthyroidia,thyroid,21,30.1,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3070,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt345,spontaneus,No,no,26,30.1,1,0,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2645,50,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt346,spontaneus,No,no,30,30.1,4,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2680,49,32,6,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt347,spontaneus,hypo-hyperthyroidia,thyroid,23,30.1,1,0,36,3,vaginal birth,preeclampsia,no,no,no,no,0 to 6 hrs,male,3090,50,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt348,spontaneus,No,no,29,30.1,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2980,49,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt350,ıvf,DM,insulin + OAD,35,30.1,5,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3260,50,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt351,spontaneus,other,no,28,30.1,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3480,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt352,spontaneus,No,no,29,30.1,3,2,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2940,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt353,spontaneus,No,no,38,30.1,3,2,36,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2500,45,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt354,spontaneus,No,no,34,30.1,1,0,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2260,44,31,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt355,spontaneus,DM,no,35,30.1,4,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2786,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt357,spontaneus,No,no,36,30.1,2,0,35,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2260,48,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt358,spontaneus,No,no,37,30.1,4,2,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2720,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt360,spontaneus,DM,no,32,30.1,1,0,36,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2320,45,31,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt361,spontaneus,preeclampsi,anticoagülan,34,30,2,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,3170,54,35,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt363,spontaneus,No,no,36,30,1,0,35,6,Cesarean,preterm eylem,yes,single dose,no,no,>7 days,male,2850,48,34,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt364,spontaneus,No,no,26,30,1,0,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2130,43,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt365,spontaneus,No,no,29,30,3,2,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2540,47,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt367,spontaneus,No,no,37,29.9,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2815,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt371,spontaneus,No,no,32,29.8,3,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2990,48,31,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt372,spontaneus,hypo-hyperthyroidia,thyroid,26,29.8,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2810,50,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt374,spontaneus,No,no,25,29.8,1,0,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3550,45,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt378,spontaneus,other,4.6,38,29.7,3,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2250,46,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt379,spontaneus,No,no,29,29.7,2,1,36,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,3170,52,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt380,spontaneus,No,no,37,29.7,4,3,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,46,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt382,spontaneus,No,no,23,29.7,1,0,36,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2230,45,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt384,spontaneus,No,no,38,29.7,4,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3190,47,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt387,ıvf,No,no,23,29.7,1,0,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2915,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt388,spontaneus,DM,no,33,29.7,3,1,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3105,47,33,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt389,spontaneus,No,no,28,29.7,3,1,36,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,3040,50,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt392,ıvf,No,no,26,29.6,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2700,50,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt394,spontaneus,No,no,26,29.4,1,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2150,43.2,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt395,spontaneus,No,no,41,29.4,2,0,36,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2625,49,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt396,spontaneus,No,no,31,29.4,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3100,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt397,spontaneus,No,no,22,29.4,1,0,36,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2810,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt398,ıvf,DM,insulin + OAD,40,29.4,1,0,36,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2775,46,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt399,spontaneus,No,no,35,29.4,3,2,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2460,52,37,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt400,spontaneus,hypo-hyperthyroidia,thyroid,26,29.4,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2180,50,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt401,spontaneus,No,no,36,29.4,1,0,36,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2270,46.8,30,5,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt404,spontaneus,No,no,32,29.4,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2930,47.7,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt406,spontaneus,No,no,35,29.4,2,1,36,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,3580,43.1,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt407,spontaneus,No,anticoagülan,32,29.4,2,1,36,0,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,3220,50,36,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt408,spontaneus,DM,no,30,29.4,2,1,37,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt409,spontaneus,No,no,25,29.4,2,1,35,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2360,50,32,5,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt410,spontaneus,No,no,27,29.4,5,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3470,51,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt411,spontaneus,No,no,34,29.3,3,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2360,47,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt412,spontaneus,No,no,20,29.3,1,0,34,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2220,42,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt414,spontaneus,No,no,26,29.3,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3335,53,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt415,spontaneus,other,no,34,29.3,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2200,45,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt416,spontaneus,No,no,38,29.2,3,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2920,49,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt418,spontaneus,No,no,24,29.1,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3030,47,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt419,spontaneus,No,no,31,29.1,3,2,37,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3345,51,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt422,spontaneus,hypo-hyperthyroidia,thyroid,26,29.1,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2625,49,33.5,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt423,spontaneus,No,no,19,29.1,2,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2495,49,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt424,spontaneus,No,no,28,29.1,3,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3840,52,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt425,spontaneus,No,no,22,29.1,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3020,50,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt427,spontaneus,hypo-hyperthyroidia,thyroid,21,29,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2560,45.8,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt428,spontaneus,No,no,30,29,4,1,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2510,46,30,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt429,spontaneus,No,no,32,29,6,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2160,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt430,spontaneus,No,no,30,29,1,0,34,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2330,47,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt431,spontaneus,DM,no,26,29,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2540,49,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt432,ıvf,DM,no,37,29,2,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2580,45,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt433,spontaneus,hypo-hyperthyroidia,4.6,32,29,4,1,35,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2380,46,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt435,spontaneus,No,no,26,29,1,0,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2985,48,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt437,spontaneus,No,no,22,29,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2600,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt439,spontaneus,No,no,34,29,3,2,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3130,48,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt441,spontaneus,hypo-hyperthyroidia,thyroid,30,28.9,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3280,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt443,spontaneus,No,no,24,28.9,1,0,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2530,47,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt446,spontaneus,No,no,21,28.8,1,0,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2910,51,38,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt448,spontaneus,No,no,31,28.8,2,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2925,52,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt451,spontaneus,No,no,31,28.7,4,2,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2780,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt452,spontaneus,other,no,19,28.7,1,0,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2450,44,32,7,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt453,spontaneus,No,no,31,28.7,3,1,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3150,50,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt454,spontaneus,No,no,27,28.7,1,0,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3140,51,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt456,spontaneus,epilepsi,antiepileptic,33,28.6,3,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2640,47,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt457,spontaneus,No,no,35,28.6,3,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2610,46,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt458,spontaneus,No,no,35,28.5,3,2,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2730,43,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt466,spontaneus,No,no,23,28.4,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2825,45,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt468,spontaneus,No,no,30,28.3,1,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3180,51,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt469,spontaneus,No,no,36,28.3,4,3,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2540,48.7,37,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt470,spontaneus,hypo-hyperthyroidia,thyroid,27,28.3,7,3,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2860,46,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt471,spontaneus,No,no,36,28.3,2,1,34,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2155,48,33,4,7,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt472,spontaneus,No,no,25,28.2,1,0,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3060,49,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt473,spontaneus,No,no,28,28.2,1,0,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2780,47,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt478,spontaneus,No,no,24,28.1,2,1,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2430,47,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt479,spontaneus,No,no,32,28.1,2,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2885,50,34,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt484,spontaneus,No,no,28,28,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3310,50,37,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt485,spontaneus,No,no,30,28,1,0,35,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2870,48,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt486,spontaneus,No,no,31,28,3,1,36,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2655,50,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt488,spontaneus,preeclampsi,no,28,28,1,0,36,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2810,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt489,spontaneus,No,no,26,28,2,1,36,5,vaginal birth,placental anomalia,no,no,no,no,0 to 6 hrs,male,2030,45,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt492,spontaneus,No,no,31,28,1,0,36,6,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,3675,51,35,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt494,spontaneus,No,no,38,28,3,1,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2080,45,32,5,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt497,spontaneus,DM,no,31,27.9,2,1,36,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2720,48,34,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt499,spontaneus,No,no,41,27.9,6,5,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3280,52,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt501,spontaneus,No,no,26,27.9,1,0,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2775,50,32,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt505,spontaneus,No,no,20,27.8,1,0,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3009,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt507,spontaneus,No,no,23,27.8,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3030,50,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt509,spontaneus,No,no,23,27.7,2,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2770,52,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt510,spontaneus,No,no,30,27.7,3,2,36,2,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2800,50,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt511,spontaneus,No,no,33,27.7,2,1,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3380,51,35,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt513,spontaneus,asthma,no,38,27.6,6,2,35,6,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2475,46,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt514,spontaneus,No,no,31,27.6,4,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2250,46,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt517,spontaneus,No,no,21,27.6,1,0,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2810,48,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt518,spontaneus,DM,no,35,27.5,3,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,4120,52,36,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt520,spontaneus,No,no,28,27.5,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3490,52,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt521,spontaneus,hypo-hyperthyroidia,thyroid,26,27.5,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2370,48.5,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt522,spontaneus,No,no,38,27.5,3,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3020,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt523,spontaneus,No,no,32,27.5,5,3,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2790,47,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt527,spontaneus,No,no,40,27.5,3,2,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2710,46,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt529,spontaneus,No,no,32,27.4,2,1,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2535,50,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt531,spontaneus,No,no,32,27.3,2,0,35,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2480,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt534,spontaneus,No,no,34,27.3,3,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2680,46,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt535,spontaneus,No,no,22,27.3,1,0,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2630,48,34.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt536,spontaneus,asthma,anticoagülan,38,27.3,4,3,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2820,47,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt537,spontaneus,hypo-hyperthyroidia,thyroid,36,27.3,1,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3155,46.6,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt538,ıvf,No,no,32,27.3,3,1,34,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2180,45,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt539,spontaneus,No,no,26,27.3,3,2,36,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2725,48,33,6,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt544,ıvf,No,no,29,27.3,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2580,47,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt546,spontaneus,DM,insulin + OAD,21,27.3,2,0,35,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2090,43,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt548,spontaneus,No,no,30,27.3,2,1,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3535,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt550,spontaneus,No,no,31,27.3,2,1,34,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2265,44,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt552,spontaneus,No,no,28,27.3,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3090,50,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt559,spontaneus,No,no,32,27.2,2,1,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2350,53,30.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt560,spontaneus,No,no,24,27.2,1,0,35,1,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2860,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt563,spontaneus,No,no,23,27.1,1,0,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2580,42,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt566,spontaneus,hypo-hyperthyroidia,thyroid,24,27.1,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3000,50,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt567,spontaneus,No,no,35,27.1,4,3,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2850,50,34.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt568,spontaneus,No,no,33,27.1,6,5,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2265,50,31,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt571,spontaneus,No,no,28,27.1,3,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,51,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt572,ıvf,No,no,22,27,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2660,51,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt573,spontaneus,No,no,29,27,2,1,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2535,49,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt574,spontaneus,hypo-hyperthyroidia,thyroid,33,27,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3090,50,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt576,spontaneus,No,no,36,27,4,1,34,6,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2850,49,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt577,spontaneus,hypo-hyperthyroidia,thyroid,22,26.9,1,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2600,47,32.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt578,spontaneus,No,no,26,26.9,2,0,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2635,45,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt580,spontaneus,renal disease,no,28,26.8,2,1,35,6,vaginal birth,5.6,no,no,no,no,0 to 6 hrs,female,2070,41,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt581,spontaneus,2.4,thyroid,36,26.8,2,1,35,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2385,47,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt586,spontaneus,No,no,35,26.8,3,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2540,48,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt587,spontaneus,No,no,28,26.8,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2810,49,32.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt589,spontaneus,No,no,27,26.8,1,0,36,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2350,46,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt591,spontaneus,hypo-hyperthyroidia,thyroid,31,26.7,2,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2520,47,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt593,spontaneus,migren,no,26,26.7,1,0,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3340,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt594,spontaneus,No,no,27,26.7,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,45,31.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt595,spontaneus,No,no,29,26.7,2,0,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2700,47,35,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt597,spontaneus,No,no,25,26.7,1,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2920,51,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt598,spontaneus,No,no,29,26.7,3,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2810,50,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt602,spontaneus,No,no,26,26.6,1,0,36,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2886,46,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt603,spontaneus,No,no,25,26.6,4,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3130,50,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt604,spontaneus,No,no,30,26.6,1,0,36,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2530,43,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt608,spontaneus,No,no,26,26.4,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3530,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt609,spontaneus,hypo-hyperthyroidia,thyroid,35,26.4,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2480,50,33.1,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt611,spontaneus,No,no,32,26.4,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2750,44,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt612,spontaneus,5.7,no,29,26.4,2,0,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2760,43.8,37,8,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt613,spontaneus,No,no,29,26.4,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2840,47,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt614,spontaneus,No,no,36,26.4,4,3,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2580,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt616,spontaneus,cholestasis,no,22,26.4,3,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2710,45,32.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt618,spontaneus,No,no,29,26.4,2,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2830,47,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt619,spontaneus,No,no,27,26.3,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2740,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt620,spontaneus,No,no,37,26.3,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt621,spontaneus,No,no,24,26.3,2,1,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1830,45,30,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt622,spontaneus,No,no,26,26.3,1,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2980,48,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt623,spontaneus,No,no,26,26.3,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2500,48,3,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt624,spontaneus,No,no,26,26.3,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2440,42,31,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt626,ıvf,hypo-hyperthyroidia,antihipertansive,29,26.3,3,1,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2150,49,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt627,spontaneus,No,no,33,26.3,3,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3100,50,35,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt628,ıvf,hypo-hyperthyroidia,thyroid,31,26.2,2,1,36,3,vaginal birth,none,no,no,no,no,0 to 6 hrs,female,2795,47,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt630,spontaneus,hypo-hyperthyroidia,no,32,26.2,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2930,49,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt631,spontaneus,No,no,28,26.2,1,0,34,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2370,45,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt635,spontaneus,No,no,26,26.2,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2770,49,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt636,ıvf,epilepsi,no,23,26.2,1,0,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2850,47,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt637,spontaneus,No,no,29,26.2,1,0,35,4,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2630,49,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt641,spontaneus,No,no,28,26.1,3,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3105,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt642,spontaneus,No,no,28,26.1,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2890,43.4,34.4,0,0,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt644,spontaneus,other,no,25,26,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3540,52,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt647,spontaneus,hypo-hyperthyroidia,2.6,34,26,2,0,35,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2610,46,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt648,spontaneus,3.4,no,33,26,3,2,35,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2220,46,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt650,spontaneus,No,no,19,26,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2730,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt651,spontaneus,hypo-hyperthyroidia,thyroid,27,26,3,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2570,47,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt652,spontaneus,No,no,38,26,3,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2980,46,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt653,spontaneus,No,no,32,26,2,1,36,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2690,49,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt655,spontaneus,3.4,antihipertansive,36,25.9,1,0,36,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3850,46,36,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt656,spontaneus,No,no,29,25.9,4,1,35,5,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2700,50,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt657,spontaneus,No,no,32,25.9,2,1,36,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2940,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt658,spontaneus,cholestasis,cholestasis,38,25.8,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2915,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt659,ıvf,No,no,20,25.8,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2365,46,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt661,spontaneus,No,no,28,25.8,2,1,35,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2170,40,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt662,spontaneus,No,no,36,25.8,5,3,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2670,46,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt663,spontaneus,No,no,25,25.8,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2830,49,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt666,spontaneus,No,no,22,25.7,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2000,43,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt667,spontaneus,No,no,33,25.7,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2655,52,34.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt668,spontaneus,No,no,23,25.7,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2640,50,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt669,spontaneus,No,no,34,25.7,3,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2540,49,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt671,spontaneus,No,no,26,25.6,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3100,54,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt672,spontaneus,No,no,36,25.6,3,2,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3490,48.1,37,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt674,spontaneus,No,no,29,25.6,2,1,36,5,Cesarean,3.4,no,no,no,no,0 to 6 hrs,male,2230,46,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt675,spontaneus,hypo-hyperthyroidia,thyroid,29,25.6,2,1,36,0,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2790,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt677,spontaneus,other,no,34,25.6,2,1,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2640,50,33,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt678,spontaneus,No,no,29,25.6,2,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2330,47,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt679,spontaneus,No,no,29,25.6,1,0,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2415,46,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt681,spontaneus,No,no,35,25.6,3,2,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2510,49.8,30.2,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt683,spontaneus,3.9,cholestasis,30,25.5,3,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3450,53,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt685,spontaneus,No,no,25,25.5,1,0,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2670,46,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt689,spontaneus,No,no,28,25.4,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,48,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt690,spontaneus,No,no,26,25.4,2,1,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt692,spontaneus,No,no,40,25.4,3,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2770,43,31,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt693,spontaneus,No,no,22,25.4,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2540,47.2,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt694,spontaneus,No,no,21,25.4,2,0,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2450,45,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt698,spontaneus,No,no,31,25.3,1,0,36,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2840,51,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt703,spontaneus,No,no,22,25.2,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2760,54,31,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt704,ıvf,No,no,27,25.2,1,0,35,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2400,43,31,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt705,spontaneus,No,no,37,25.2,3,1,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3310,51,37,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt706,spontaneus,4.8,thyroid,24,25.2,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2300,40,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt707,spontaneus,No,no,24,25.2,2,1,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,50,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt708,spontaneus,No,no,24,25.1,2,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3230,50,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt710,spontaneus,No,no,30,25,3,2,36,4,Cesarean,1.3,no,no,no,no,0 to 6 hrs,female,2620,51,46,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt712,ıvf,No,no,35,25,3,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2800,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt713,spontaneus,hypo-hyperthyroidia,thyroid,23,25,1,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2000,47,32,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt714,spontaneus,cholestasis,no,32,25,1,0,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2560,47,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt715,spontaneus,No,no,23,25,2,1,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2915,45,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt718,spontaneus,No,no,32,25,3,2,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2880,43,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt719,ıvf,3.4,thyroid,25,25,5,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2470,45,31.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt721,spontaneus,No,no,40,25,2,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,3000,45,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt722,spontaneus,No,no,29,25,2,1,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2500,49,34,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt725,spontaneus,No,anticoagülan,27,25,2,1,36,1,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2475,46.5,34,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt727,spontaneus,No,no,32,24.9,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,49,31,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt728,spontaneus,No,no,24,24.9,1,0,34,4,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2350,43,31,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt729,spontaneus,No,no,21,24.9,1,0,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3080,50,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt731,spontaneus,No,no,23,24.9,1,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2800,48,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt733,spontaneus,No,no,38,24.9,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2790,47,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt734,ıvf,No,no,28,24.8,1,0,36,1,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,3345,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt736,spontaneus,No,no,32,24.8,2,1,36,6,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2670,50,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt738,spontaneus,No,no,39,24.7,5,3,36,1,Cesarean,1.7,no,no,no,no,0 to 6 hrs,male,3500,50,36,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt739,ıvf,No,no,25,24.7,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2245,47,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt745,spontaneus,No,no,26,24.6,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2370,45,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt747,spontaneus,No,no,29,24.6,2,1,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2990,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt748,spontaneus,No,no,32,24.5,3,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,48,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt749,spontaneus,hypo-hyperthyroidia,antihipertansive,24,24.5,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2555,49,34,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt750,spontaneus,No,no,26,24.5,1,0,34,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1460,45.3,37,5,7,12,none,no,no,none,no,none,none,0,0,0,NONE,no
+Pt752,spontaneus,No,no,26,24.5,2,1,36,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2250,45,34,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt753,spontaneus,No,no,30,24.5,1,0,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,3540,51,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt756,spontaneus,No,no,32,24.4,1,0,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2405,47,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt757,spontaneus,No,no,25,24.4,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2600,49,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt758,spontaneus,hypo-hyperthyroidia,insulin + OAD,30,24.3,3,2,35,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2090,44,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt759,spontaneus,No,no,34,24.3,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3275,54,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt761,spontaneus,No,no,25,24.2,4,3,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2575,49,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt762,spontaneus,hypo-hyperthyroidia,no,30,24.2,1,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2290,50,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt763,spontaneus,other,no,33,24.2,5,2,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2840,44,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt764,spontaneus,No,no,23,24.2,1,0,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2655,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt765,spontaneus,No,no,35,24.2,1,0,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3270,47,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt768,spontaneus,No,no,37,24.2,2,1,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2930,51,34.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt769,spontaneus,No,no,35,24.1,3,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2770,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt773,spontaneus,No,no,24,24.1,2,1,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2870,50,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt774,spontaneus,No,no,34,24.1,5,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2595,48,33.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt778,spontaneus,No,no,21,24,3,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3230,46.1,30.8,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt779,spontaneus,No,no,25,24,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,44,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt781,spontaneus,No,no,27,23.9,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3050,52,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt782,spontaneus,No,no,23,23.9,2,1,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2010,34,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt784,spontaneus,No,no,37,23.9,3,2,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2850,51,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt785,spontaneus,hypo-hyperthyroidia,thyroid,23,23.9,1,0,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2560,51,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt787,spontaneus,No,no,23,23.8,2,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2400,48,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt788,spontaneus,No,no,26,23.8,2,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2500,53,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt789,spontaneus,No,antihipertansive,30,23.8,4,3,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3300,51,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt792,spontaneus,asthma,no,38,23.8,1,0,36,0,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2525,45,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt796,spontaneus,hypo-hyperthyroidia,thyroid,18,23.7,1,0,35,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2420,46,33,6,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt797,spontaneus,hypo-hyperthyroidia,thyroid,28,23.7,1,0,36,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2100,44,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt799,spontaneus,No,no,27,23.7,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1945,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt800,spontaneus,No,no,31,23.7,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3035,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt801,spontaneus,No,no,28,23.6,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3200,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt804,spontaneus,No,no,30,23.6,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2660,50,33,8,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt805,ıvf,No,no,37,23.6,1,0,36,2,Cesarean,preterm eylem,yes,single dose,no,no,>7 days,female,2040,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt808,spontaneus,No,no,27,23.5,2,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2220,44,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt809,spontaneus,hypo-hyperthyroidia,thyroid,24,23.5,3,1,36,6,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,3190,52,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt811,spontaneus,No,no,24,23.4,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3420,49,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt818,spontaneus,No,no,31,23.1,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2220,49,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt820,spontaneus,No,no,29,23.1,4,2,35,5,Cesarean,4.5,yes,1.4,no,no,>7 days,male,2825,49,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt823,spontaneus,No,no,25,23,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2525,43.5,34.5,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt824,spontaneus,No,no,29,22.9,4,2,35,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2870,50,35,8,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt825,spontaneus,No,no,18,22.9,1,0,35,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2110,48,31,8,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt826,spontaneus,No,no,30,22.9,2,1,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2530,48,34,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt828,spontaneus,No,no,26,22.9,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2330,47,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt829,spontaneus,No,no,21,22.9,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3350,49,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt830,spontaneus,DM,insulin + OAD,29,22.8,3,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,4110,51,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt831,ıvf,No,no,23,22.8,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,50,32,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt832,spontaneus,No,no,25,22.7,1,0,35,4,Cesarean,2.4,no,no,no,no,0 to 6 hrs,male,3000,49,32,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt837,ıvf,hypo-hyperthyroidia,thyroid,33,22.5,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2680,49,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt842,spontaneus,No,no,29,22.3,2,1,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2230,49,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt846,spontaneus,hypo-hyperthyroidia,2.6,30,22.2,2,0,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2600,48,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt848,spontaneus,No,no,32,22,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2630,49,32.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt849,spontaneus,No,no,30,22,2,1,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2120,45,31.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt850,spontaneus,No,no,22,22,1,0,35,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2510,47,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt851,spontaneus,No,anticoagülan,31,22,1,0,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2640,42.1,30,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt852,spontaneus,migren,no,29,22,3,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2440,48,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt855,spontaneus,No,no,37,21.9,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2680,47,34.5,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt856,spontaneus,No,no,20,21.8,1,0,36,0,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2665,48.5,30,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt857,spontaneus,No,no,34,21.8,3,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2540,51,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt859,spontaneus,No,no,21,21.7,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2265,47,31,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt860,spontaneus,other,no,36,21.6,5,3,34,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2460,48,33,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt863,spontaneus,No,no,33,21.5,4,3,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2670,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt864,spontaneus,No,no,25,21.4,1,0,35,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1865,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt865,spontaneus,No,anticoagülan,36,21.3,4,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2490,47,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt869,spontaneus,No,no,30,21.3,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2000,46,30.5,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt871,spontaneus,other,no,30,21.1,3,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2950,50,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt873,spontaneus,No,no,20,20.7,2,1,35,6,vaginal birth,none,no,no,no,no,0 to 6 hrs,male,2660,48,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt877,spontaneus,No,no,19,20.2,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2200,45,42,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt878,spontaneus,No,no,28,19.8,4,3,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2640,45,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt879,spontaneus,No,no,31,19.7,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2615,46,32,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt880,spontaneus,No,no,26,19.4,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2345,45,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt881,spontaneus,No,no,31,18.4,2,1,35,5,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,no,no,>7 days,male,2720,47,35,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt883,spontaneus,other,no,26,18.3,1,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2390,48,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt884,spontaneus,No,no,20,18.1,2,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2480,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt888,spontaneus,No,no,24,28.9,1,0,36,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,3089,48,35,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt889,spontaneus,No,no,35,28.9,3,1,35,0,vaginal birth,none,no,no,no,no,0 to 6 hrs,male,2090,44,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt890,spontaneus,No,no,32,28.9,5,3,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2290,46,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt893,spontaneus,No,no,33,28.9,2,1,36,0,vaginal birth,fetal distress,no,no,no,no,0 to 6 hrs,male,3280,52,335,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt895,spontaneus,DM,no,35,28.9,2,1,36,3,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,3150,46.3,30,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt898,spontaneus,No,no,20,28.9,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2660,49.4,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt900,spontaneus,No,no,28,28.9,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,50.7,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt902,ıvf,No,no,37,28.9,7,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2820,50.4,36.9,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt903,spontaneus,No,no,27,28.9,3,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2300,49,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt905,spontaneus,hypo-hyperthyroidia,thyroid,29,27.8,1,0,36,3,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2870,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt908,spontaneus,No,no,32,28.9,3,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,4100,44.9,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt909,spontaneus,No,no,35,28.9,3,2,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3150,46.6,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt910,spontaneus,No,no,21,28.9,2,1,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,3020,48.5,36.6,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt911,spontaneus,No,no,37,28.9,4,3,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2050,50.5,35.1,9,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt916,spontaneus,No,no,24,28.9,1,0,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2630,47,30.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt918,spontaneus,DM,thyroid,25,28.9,1,0,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2410,46.9,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt919,spontaneus,No,no,40,28.9,4,3,36,4,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,3220,51,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt920,spontaneus,DM,insulin + OAD,32,28.9,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3620,49,34,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt921,spontaneus,No,anticoagülan,33,28.9,2,1,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3550,44.1,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt923,spontaneus,No,no,22,28.9,2,1,34,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2455,43.8,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt926,spontaneus,No,no,30,28.9,3,2,36,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2485,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt929,spontaneus,No,no,27,27.8,3,0,34,1,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,2420,46.6,33.4,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt930,spontaneus,No,no,28,28.9,5,3,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2560,51,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt932,spontaneus,No,no,33,28.9,2,0,35,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2250,51.7,30,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt934,spontaneus,No,no,28,28.9,2,1,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2820,50.6,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt935,ıvf,other,anticoagülan,37,28.9,1,0,36,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,3350,50,35.5,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt938,spontaneus,No,no,34,28.9,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3070,47,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt941,spontaneus,No,no,27,28.9,1,0,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2730,45.5,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt942,spontaneus,No,no,34,28.9,3,1,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,4030,48.6,37,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt943,spontaneus,No,no,35,28.9,3,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2940,52.2,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt944,spontaneus,10.3,no,42,28.9,6,5,36,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2800,47,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt945,spontaneus,asthma,no,25,28.9,1,0,36,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2740,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt946,spontaneus,3.7,no,32,28.9,10,1,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3120,48,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt949,spontaneus,preeclampsi,1.6,33,28.9,2,1,36,5,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2340,52.3,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt950,spontaneus,No,no,22,28.9,1,0,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2595,40,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt951,spontaneus,No,no,28,28.9,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2500,50,30,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt952,spontaneus,No,no,27,28.9,3,2,35,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2420,45,31,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt954,spontaneus,No,no,34,28.9,7,3,36,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,2120,52,32,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt956,spontaneus,No,no,26,28.9,2,1,35,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2300,46.6,30,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt958,spontaneus,No,no,36,28.9,2,1,36,5,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,2545,47,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt959,spontaneus,DM,no,28,28.9,3,2,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2945,47.8,30.6,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt960,spontaneus,No,no,31,28.9,3,2,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3675,51,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt962,spontaneus,No,no,29,28.9,3,2,36,0,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2035,43,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt963,spontaneus,No,anticoagülan,34,28.9,5,4,34,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2775,48,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt971,spontaneus,hypo-hyperthyroidia,thyroid,17,28.9,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2920,50,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt972,spontaneus,hypo-hyperthyroidia,thyroid,27,28.9,2,1,35,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2365,45.9,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt974,spontaneus,No,no,24,28.9,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2775,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt975,spontaneus,DM,4.6,28,28.9,4,1,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt976,spontaneus,No,no,27,28.9,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2790,50,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt977,spontaneus,No,no,41,28.9,2,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2600,46,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt978,spontaneus,2.3,no,40,27.8,6,5,34,2,vaginal birth,preeclampsia,yes,2 doses 24hrs  interval,no,no,2 to 7 days,male,2100,46,33,8,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt981,spontaneus,No,no,29,28.9,1,0,36,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2540,49,34,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt982,spontaneus,No,no,40,28.9,3,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3380,50.3,35.2,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt984,spontaneus,No,no,21,28.9,1,0,35,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,female,2000,48.5,30,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt991,spontaneus,No,no,32,28.9,2,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2140,49.1,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt992,spontaneus,DM,no,33,28.9,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2855,45,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt994,spontaneus,2.3,insulin + OAD,32,28.9,1,0,35,3,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2465,45,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt996,spontaneus,No,no,23,28.9,1,0,35,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2300,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt997,spontaneus,hypo-hyperthyroidia,thyroid,22,28.9,1,0,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2800,49,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt998,spontaneus,No,no,36,28.9,3,2,36,6,vaginal birth,oligohidramniosis,no,no,no,no,0 to 6 hrs,male,2960,48,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt999,spontaneus,No,no,32,28.9,3,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3500,47.8,30,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1004,spontaneus,other,no,28,28.9,2,1,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2400,45.3,34.9,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1005,spontaneus,No,no,31,28.9,2,1,35,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2535,46.5,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1010,spontaneus,hypo-hyperthyroidia,no,27,28.9,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2800,51,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1011,spontaneus,No,no,36,27.8,1,0,36,6,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,male,3264,49,35.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1013,ıvf,No,no,27,28.9,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3250,49,36,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1015,spontaneus,cholestasis,cholestasis,30,28.9,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2840,48.3,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1016,spontaneus,No,no,30,28.9,4,1,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3250,47.5,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1017,spontaneus,No,no,40,28.9,4,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2365,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1018,spontaneus,No,no,32,28.9,1,0,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1775,45,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1019,ıvf,No,no,28,28.9,1,0,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1800,46,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1021,spontaneus,No,no,23,28.9,2,0,36,3,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,3000,46.8,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1022,spontaneus,No,no,39,28.9,4,3,35,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,3410,53,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1024,spontaneus,No,no,19,28.9,1,0,36,0,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2060,45,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1025,spontaneus,No,no,35,28.9,2,1,35,1,Cesarean,PROM,no,no,no,no,0 to 6 hrs,female,2510,49,35,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1026,spontaneus,No,no,28,28.9,4,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,49,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1031,spontaneus,No,no,22,28.9,2,1,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2460,45,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1033,spontaneus,asthma,no,23,28.9,1,0,35,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3050,47,35,6,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1034,spontaneus,hypo-hyperthyroidia,2.6,42,28.9,4,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,4085,54,365,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1036,spontaneus,preeclampsi,no,36,28.9,1,0,36,0,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2265,48.8,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1041,spontaneus,No,no,30,28.9,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3230,49,36,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1042,spontaneus,No,no,36,28.9,2,0,36,4,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2195,46,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1043,spontaneus,No,no,40,28.9,2,1,36,2,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2010,48,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1045,spontaneus,preeclampsi,no,31,28.9,3,2,34,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2170,45,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1047,spontaneus,No,no,23,28.9,2,1,36,0,vaginal birth,placental anomalia,no,no,no,no,0 to 6 hrs,female,2260,46,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1051,spontaneus,No,no,19,28.9,2,0,36,5,vaginal birth,preterm eylem,no,no,no,no,none,female,2770,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1054,spontaneus,No,no,34,28.9,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,41.6,30,6,7,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1057,spontaneus,No,no,34,28.9,4,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3235,49,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1059,spontaneus,No,no,31,28.9,3,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2930,47.4,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1060,spontaneus,DM,no,39,28.9,2,1,36,6,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2800,48,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1061,spontaneus,cholestasis,cholestasis,28,28.9,4,2,36,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2855,47.7,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1063,spontaneus,No,no,36,28.9,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2290,53,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1066,spontaneus,No,no,36,28.9,5,3,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2520,48.4,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1067,spontaneus,No,no,23,28.9,1,0,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2120,47.4,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1069,spontaneus,No,no,29,28.9,1,0,35,3,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2725,47,34,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1070,spontaneus,No,no,23,28.9,2,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2500,51,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1071,spontaneus,No,no,28,28.9,1,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2345,49.8,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1073,spontaneus,No,no,33,28.9,5,2,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3000,46,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1074,spontaneus,No,no,35,28.9,3,2,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3380,49.9,30,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1075,spontaneus,No,no,37,28.9,4,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2100,44.7,33.3,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1077,spontaneus,No,no,23,28.9,2,0,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2780,43.2,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1078,spontaneus,No,no,26,28.9,1,0,34,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3150,47,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1079,spontaneus,other,anticoagülan,32,28.9,2,1,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3220,49.3,30.4,5,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1080,spontaneus,No,no,34,28.9,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2540,53,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1081,spontaneus,No,no,28,28.9,3,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,44.5,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1082,spontaneus,No,no,40,28.9,3,2,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2770,45.8,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1083,spontaneus,No,no,24,28.9,2,1,36,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2900,47.8,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1084,spontaneus,No,no,32,28.9,2,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2670,46,36.2,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1085,spontaneus,No,no,31,28.9,1,0,36,3,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2840,42.7,37,7,9,0,no,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt1086,spontaneus,No,no,28,27.8,4,3,36,3,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,no,no,>7 days,female,2640,50.9,32.5,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1087,spontaneus,No,no,37,28.9,3,2,35,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2860,47.7,30,6,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1088,spontaneus,No,no,31,28.9,1,0,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3310,44.2,37,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1090,spontaneus,No,no,28,28.9,3,1,36,2,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2880,44.7,30,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1091,spontaneus,other,no,39,28.9,5,3,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3050,51,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt99,spontaneus,DM,insulin + OAD,32,36,2,1,36,5,Cesarean,preterm eylem,yes,single dose,no,no,0 to 6 hrs,female,2935,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt980,spontaneus,No,no,27,28.9,1,0,34,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2375,50,32,7,8,36,none,no,no,none,no,others,none,0,0,0,NONE,no
+Pt291,spontaneus,No,no,29,31.2,3,2,36,0,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2590,49,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt420,spontaneus,No,no,29,29.1,1,0,36,4,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,1870,45,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt526,spontaneus,No,no,44,27.5,3,1,34,0,Cesarean,PROM,yes,single dose,no,no,0 to 6 hrs,male,2955,45,31,7,9,0,none,no,no,none,no,none,none,0,0,0,NONE,no
+Pt691,spontaneus,No,no,26,25.4,1,0,36,5,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2770,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt812,spontaneus,No,no,21,23.4,1,0,36,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2280,45,32,6,7,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt814,spontaneus,hypo-hyperthyroidia,thyroid,22,23.3,1,0,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2550,48,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt955,spontaneus,No,no,45,28.9,2,1,34,6,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,male,1995,43,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1002,ıvf,No,no,34,27.8,3,0,34,0,vaginal birth,preterm eylem,yes,single dose,no,no,>7 days,male,2425,50,36,7,9,0,none,no,no,none,no,none,none,0,0,0,NONE,no
+Pt403,spontaneus,hypo-hyperthyroidia,thyroid,35,29.4,4,2,36,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3000,49,34,6,8,10,no,yes,yes,pbv,no,resp. distress,pneumonia,2,2,8,Ha PDA,no
+Pt474,spontaneus,No,no,28,28.2,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,1800,46,37,4,6,34,no,no,yes,pbv,no,resp. distress,none,3,1,0,Ha PDA,no
+Pt231,spontaneus,No,no,26,32.3,3,2,35,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2700,49,34,4,8,2,no,no,yes,pbv,no,resp. distress,TTN,0,0,0,NONE,no
+Pt868,spontaneus,No,no,32,21.3,2,1,34,5,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,no,no,>7 days,female,2150,45,34,3,0,6,no,no,yes,pbv,no,resp. distress,none,0,0,0,NONE,no
+Pt390,ıvf,4.8,thyroid,25,29.7,1,0,34,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2100,45,32,6,9,6,no,no,yes,pbv,no,resp. distress,TTN,0,1,1,NONE,no
+Pt541,spontaneus,No,no,31,27.3,2,1,34,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2660,46,33,4,9,1,none,no,yes,pbv,no,resp. distress,TTN,0,1,1,NONE,no
+Pt303,spontaneus,preeclampsi,no,33,30.9,3,2,36,1,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,1855,46,32,5,6,5,no,no,yes,pbv,no,resp. distress,TTN,0,0,2,NONE,no
+Pt337,spontaneus,other,no,33,30.3,3,2,35,4,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2810,48,34,6,8,1,no,no,yes,pbv,no,resp. distress,none,0,1,2,NONE,no
+Pt314,spontaneus,other,no,28,30.7,2,1,35,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2030,43,30,2,6,5,no,no,yes,pbv,no,resp. distress,TTN,0,2,3,NONE,no
+Pt605,spontaneus,No,no,27,26.6,1,0,35,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2310,44.3,30,4,9,6,no,no,yes,pbv,no,resp. distress,TTN,0,1,3,NONE,no
+Pt957,spontaneus,ht,antihipertansive,36,27.8,3,2,34,1,Cesarean,preeclampsia,yes,2 doses 24hrs  interval,no,no,24 to 48 hrs,male,1855,44,30,7,9,11,no,no,yes,pbv,no,resp. distress,TTN,0,1,3,NONE,no
+Pt798,spontaneus,hypo-hyperthyroidia,thyroid,20,23.7,2,1,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2930,50,34,6,9,7,no,no,yes,pbv,no,resp. distress,Pneumothorax,0,1,4,NONE,no
+Pt723,spontaneus,DM,insulin + OAD,34,25,4,3,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,3020,51,32,1,6,6,no,no,yes,pbv,no,resp. distress,TTN,0,1,4,NONE,no
+Pt1089,spontaneus,hypo-hyperthyroidia,thyroid,32,28.9,7,2,34,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,1890,49,34.4,5,8,5,no,no,yes,pbv,no,resp. distress,TTN,0,1,4,NONE,no
+Pt717,spontaneus,No,no,22,25,3,2,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2595,47,33,6,6,6,no,no,yes,pbv,no,resp. distress,TTN,0,3,5,NONE,no
+Pt290,spontaneus,hypo-hyperthyroidia,thyroid,33,31.2,3,1,36,1,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,2975,48,35,2,4,11,no,yes,yes,pbv,no,asfiksia,TTN,0,0,6,NONE,no
+Pt134,spontaneus,No,no,36,34.6,8,4,34,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2765,48,35,5,8,7,no,no,yes,pbv,no,resp. distress,TTN,0,1,6,NONE,no
+Pt530,ıvf,No,no,31,27.3,1,0,35,6,Cesarean,placental anomalia,no,no,no,no,0 to 6 hrs,male,1900,39,32,4,7,7,yes,no,yes,pbv,no,resp. distress,TTN,0,1,6,NONE,no
+Pt393,spontaneus,No,no,35,29.5,4,2,36,3,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2820,46,34,2,5,9,no,no,yes,pbv,no,resp. distress,RDS,0,3,8,NONE,no
+Pt970,spontaneus,DM,no,35,28.9,2,1,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2780,48,34,8,9,0,no,no,yes,pbv,no,none,none,0,0,0,NONE,no
+Pt426,spontaneus,No,no,35,29.1,1,0,35,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2860,50,34,8,9,0,no,no,yes,pbv,no,none,none,0,0,0,NONE,no
+Pt917,spontaneus,DM,no,28,28.9,1,0,35,6,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2550,46,30,3,5,140,none,none,yes,pbv,no,others,none,0,0,0,NONE,no
+Pt298,spontaneus,4.8,no,30,31.1,6,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2000,41,31,3,5,0,none,none,yes,pbv,no,resp. distress,none,0,0,0,NONE,no
+Pt1006,spontaneus,No,anticoagülan,35,28.9,4,1,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2615,46.3,37,6,8,0,none,no,yes,pbv,no,resp. distress,none,0,0,0,NONE,yes
+Pt269,spontaneus,No,no,21,31.6,1,0,34,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2530,47,31,8,10,16,none,none,none,none,early,none,none,0,0,0,NONE,no
+Pt16,spontaneus,No,no,31,44.3,4,2,36,5,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,3865,49,38,4,9,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt6,spontaneus,preeclampsi,antihipertansive,25,44,2,0,36,1,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,1667,47.1,30,0,0,0,none,none,none,none,no, ,none,0,0,0,NONE,no
+Pt69,spontaneus,DM,no,32,37.5,2,1,36,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,3715,53,38,5,8,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt503,spontaneus,No,no,43,27.8,5,4,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,1710,44,32,5,7,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt660,spontaneus,No,no,23,25.8,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2350,50,32,9,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt973,spontaneus,preeclampsi,no,23,28.9,1,0,36,3,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2140,45,30,7,9,3,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt947,spontaneus,No,no,37,28.9,5,1,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2795,47.4,37,8,10,1,none,none,none,none,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt164,ıvf,DM,no,34,33.6,1,0,36,2,Cesarean,PROM,no,no,no,no,0 to 6 hrs,male,2880,53,35,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt195,spontaneus,other,no,36,33.1,1,0,34,5,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,no,no,2 to 7 days,male,2600,46.9,36,6,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt226,ıvf,No,anticoagülan,39,32.4,4,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2080,45.8,37,0,0,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt229,spontaneus,No,no,41,32.3,4,2,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2295,49,33,8,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt240,spontaneus,No,no,29,32,3,2,36,2,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,male,3230,49,33,8,9,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt244,spontaneus,No,no,22,32,1,0,36,5,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2740,46,34,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt299,spontaneus,No,no,28,30.9,2,0,36,0,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,female,2600,42,30,3,7,0,none,none,none,none,no,none,none,0,0,0,NONE,none
+Pt340,spontaneus,No,no,36,30.1,2,1,36,0,Cesarean,fetal distress,no,no,no,no,0 to 6 hrs,female,2280,46,33,7,9,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt496,spontaneus,No,no,36,27.9,6,3,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2610,46,34.5,8,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt498,spontaneus,DM,no,28,27.9,3,2,35,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,3180,52,34,9,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt528,spontaneus,No,no,43,27.4,5,4,34,2,Cesarean,preeclampsia,no,no,no,no,0 to 6 hrs,male,2010,44,32,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt561,spontaneus,No,no,28,27.2,3,1,35,1,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2495,50,30,0,0,0,none,none,none,none,no,none,none,0,0,0,NONE,yes
+Pt562,spontaneus,other,no,21,27.1,1,0,36,2,vaginal birth,PROM,no,no,no,no,0 to 6 hrs,female,2440,48,31,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt601,spontaneus,No,no,20,26.6,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2490,45,35,7,8,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt716,spontaneus,DM,insulin + OAD,37,25,2,1,35,4,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2590,47,35,8,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt744,spontaneus,No,no,33,24.6,1,0,35,0,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,male,2820,51,36,8,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt833,spontaneus,No,no,34,22.7,3,1,35,5,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2230,50,32,9,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt882,spontaneus,No,no,20,18.4,2,1,36,0,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2700,50,35,9,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt886,spontaneus,migren,no,21,18,1,0,35,1,vaginal birth,PROM,yes,2 doses 24hrs  interval,no,no,>7 days,female,2640,48,34,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt987,spontaneus,No,no,32,28.9,3,1,36,6,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,female,2980,48,34,7,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt1007,spontaneus,No,no,26,28.9,1,0,36,6,Cesarean,preterm eylem,no,no,no,no,0 to 6 hrs,female,2910,43,37,7,9,2,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt1064,spontaneus,No,no,29,28.9,1,0,34,4,vaginal birth,preterm eylem,no,no,no,no,0 to 6 hrs,male,2740,46.9,30,7,9,6,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt106,spontaneus,No,no,26,35.7,2,0,36,3,vaginal birth,none,none,none,yes,single dose,24 to 48 hrs,female,2500,0,0,6,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt152,spontaneus,10.4,thyroid,27,33.9,1,0,36,1,vaginal birth,preterm eylem,none,none,yes,single dose,2 to 7 days,female,2845,0,0,8,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt585,spontaneus,3.7,none,32,26.8,1,0,35,5,vaginal birth,none,none,none,yes,single dose,6 to 24 hrs,male,2080,0,0,7,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt625,spontaneus,hypo-hyperthyroidia,thyroid,33,26.3,3,1,36,5,Cesarean,PROM,none,none,yes,single dose,2 to 7 days,male,3635,0,0,9,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt915,spontaneus,No,no,35,0,2,1,35,3,Cesarean,preterm eylem,none,none,yes,single dose,24 to 48 hrs,male,2610,0,0,0,0,0,none,yes,none,none,no,none,none,0,0,0,NONE,no
+Pt126,spontaneus,No,no,37,34.9,2,1,36,0,Cesarean,preeclampsia,no,no,yes,single dose,24 to 48 hrs,male,3880,52,35,3,6,7,no,no,yes,cpap,early,resp. distress,TTN,0,0,2,Ha PDA,no
+Pt847,spontaneus,No,no,19,22.1,1,0,35,3,vaginal birth,preterm eylem,no,no,yes,double dose,2 to 7 days,female,1870,48.6,33.1,7,9,13,no,yes,yes,cpap,no,others,pulm HT,2,6,13,Ha PDA,yes
+Pt1053,spontaneus,No,no,33,28.9,1,0,35,2,Cesarean,placental anomalia,no,no,yes,single dose,6 to 24 hrs,male,2000,47.3,37,6,8,2,no,no,yes,cpap,no,resp. distress,TTN,1,1,2,IVK,no
+Pt508,spontaneus,No,anticoagülan,23,27.7,1,0,36,2,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,male,2810,48,33,6,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt892,spontaneus,No,no,38,28.9,5,3,35,5,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,male,3120,47,35,8,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt287,spontaneus,No,no,34,31.2,3,0,34,0,Cesarean,preterm eylem,no,no,yes,double dose,0 to 6 hrs,male,3610,49,35,7,9,5,no,no,yes,cpap,no,resp. distress,TTN,0,1,3,NONE,no
+Pt939,spontaneus,No,no,26,28.9,3,1,35,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,3080,48.6,37,9,9,4,no,no,yes,cpap,no,resp. distress,TTN,0,2,3,NONE,no
+Pt1039,spontaneus,No,no,38,28.9,4,2,35,3,Cesarean,oligohidramniosis,no,no,yes,single dose,6 to 24 hrs,female,3120,50,35,5,7,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt111,spontaneus,other,no,29,35.6,4,1,35,3,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,female,2145,45,31,7,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt1012,ıvf,No,no,21,28.9,1,0,36,1,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2960,51,36,7,9,4,no,no,yes,cpap,no,resp. distress,TTN,0,2,4,NONE,no
+Pt743,spontaneus,preeclampsi,no,34,24.7,3,2,34,5,Cesarean,preeclampsia,no,no,yes,single dose,6 to 24 hrs,male,2850,47,34,7,10,7,no,no,yes,cpap,no,resp. distress,TTN,0,3,5,NONE,no
+Pt985,spontaneus,No,no,35,28.9,3,2,35,6,Cesarean,placental anomalia,no,no,yes,single dose,0 to 6 hrs,female,2420,47,33,5,9,6,no,no,yes,cpap,no,resp. distress,TTN,0,3,5,NONE,no
+Pt1,spontaneus,DM,no,39,46.6,2,1,35,6,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,male,2840,48,34,6,9,10,no,no,yes,cpap,no,resp. distress,Pneumothorax,3,3,10,NONE,no
+Pt25,spontaneus,No,no,36,41.8,4,2,34,1,Cesarean,PROM,no,no,yes,single dose,0 to 6 hrs,male,2210,46,33,7,8,0,yes,no,no,none,no,none,none,0,0,0,NONE,no
+Pt45,spontaneus,No,no,32,39.1,2,1,35,1,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,2480,49,33,7,9,0,yes,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt89,spontaneus,hypo-hyperthyroidia,thyroid,29,36.7,2,0,36,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2225,42,32,4,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt516,spontaneus,No,no,33,27.6,2,1,36,5,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,male,2455,49,33.5,7,8,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt582,spontaneus,No,no,36,26.8,5,4,34,4,Cesarean,PROM,no,no,yes,double dose,2 to 7 days,male,2610,48,33,8,9,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt726,spontaneus,No,no,25,25,2,1,36,5,Cesarean,oligohidramniosis,no,no,yes,single dose,2 to 7 days,male,3485,51,36,7,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt840,spontaneus,No,no,32,22.4,1,0,35,6,vaginal birth,preterm eylem,no,no,yes,single dose,0 to 6 hrs,male,2470,49,33,9,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1027,spontaneus,No,no,31,28.9,2,1,36,4,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2690,49,34,8,10,0,no,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt700,spontaneus,No,no,25,25.3,6,1,34,4,Cesarean,PROM,no,no,yes,single dose,0 to 6 hrs,male,2120,43,33,6,8,1,no,no,yes,cpap,no,resp. distress,TTN,0,0,1,NONE,no
+Pt853,spontaneus,No,no,23,22,2,1,36,4,Cesarean,placental anomalia,no,no,yes,single dose,6 to 24 hrs,male,2530,47,34,4,8,0,none,none,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1032,spontaneus,ht,anticoagülan,22,28.9,5,0,35,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2990,49,37.5,6,8,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt940,spontaneus,preeclampsi,antihipertansive,33,28.9,4,2,34,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2950,46,33,8,9,14,none,none,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt1062,spontaneus,No,no,27,28.9,4,0,36,0,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,2625,48,33,8,9,0,none,no,yes,cpap,no,none,none,0,0,0,NONE,no
+Pt344,spontaneus,preeclampsi,1.6,37,30.1,3,0,36,5,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,yes,rescue,24 to 48 hrs,female,1800,45,30,8,9,5,no,no,yes,hood only,no,resp. distress,TTN,0,0,0,IVK,no
+Pt185,spontaneus,preeclampsi,no,28,33.2,2,1,34,3,Cesarean,3.4,no,no,yes,single dose,0 to 6 hrs,female,1490,39,29,6,8,10,yes,no,yes,hood only,no,others,none,0,0,0,NONE,no
+Pt588,spontaneus,No,no,24,26.8,2,1,34,4,vaginal birth,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2560,49,32,8,9,8,no,no,yes,hood only,no,resp. distress,TTN,0,2,5,NONE,no
+Pt86,ıvf,No,no,34,36.7,1,0,34,4,Cesarean,PROM,no,no,yes,single dose,6 to 24 hrs,male,2400,44,32,6,9,7,no,no,yes,hood only,no,resp. distress,TTN,0,4,6,NONE,no
+Pt149,spontaneus,No,no,40,34.1,4,3,34,1,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,male,2070,51,32,4,8,1,no,no,yes,hood only,no,resp. distress,pneumonia,0,7,8,NONE,no
+Pt772,spontaneus,No,no,35,24.1,4,1,36,1,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2840,40,32,7,9,12,no,yes,yes,hood only,no,others,none,0,0,8,NONE,no
+Pt10,spontaneus,DM,insulin + OAD,25,42.5,4,1,34,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,3340,49,31,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt11,spontaneus,hypo-hyperthyroidia,2.6,26,42.2,5,1,36,1,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2260,49,33,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt199,spontaneus,No,no,24,33,2,0,34,3,Cesarean,PROM,no,no,yes,single dose,6 to 24 hrs,male,2460,47,31,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt373,spontaneus,4.1,2.6,29,29.8,2,0,36,3,Cesarean,placental anomalia,no,no,yes,single dose,>7 days,female,3250,50,33,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt450,spontaneus,No,no,34,28.7,1,0,36,1,Cesarean,PROM,no,no,yes,single dose,6 to 24 hrs,female,2805,48,32,8,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt467,spontaneus,No,no,27,28.4,3,1,34,0,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,yes,double dose,0 to 6 hrs,female,2520,48,32.5,7,8,3,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt592,spontaneus,No,no,41,26.7,2,1,36,4,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,male,3230,48,37,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt617,spontaneus,No,no,23,26.4,4,2,34,5,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,1940,44,30,5,8,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt841,spontaneus,hypo-hyperthyroidia,thyroid,32,22.3,3,1,34,0,vaginal birth,preterm eylem,no,no,yes,double dose,2 to 7 days,male,2330,46,30,9,10,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt866,spontaneus,ht,antihipertansive,25,21.3,2,0,35,3,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,yes,rescue,0 to 6 hrs,male,2520,46,35,9,10,0,no,yes,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt1044,spontaneus,No,anticoagülan,31,28.9,3,2,36,3,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2710,48,34,7,9,0,no,no,yes,hood only,no,none,none,0,0,0,NONE,no
+Pt28,spontaneus,No,no,31,41.4,2,1,36,4,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2630,49.5,30,5,8,40,no,no,yes,intubation,late,others,Pneumothorax + Pulm HT,31,1,35,NONE,no
+Pt259,spontaneus,hypo-hyperthyroidia,thyroid,34,31.8,2,1,34,0,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,3150,44.4,37,6,6,24,none,no,yes,intubation,no,none,none,0,0,0,NONE,no
+Pt405,ıvf,other,anticoagülan,33,29.4,2,0,36,3,Cesarean,placental anomalia,no,no,yes,single dose,2 to 7 days,female,2630,48,34,10,10,1,no,no,no,none,no,Hyperbilirubinemia,none,0,0,0,NONE,no
+Pt402,spontaneus,preeclampsi,1.6,24,29.4,1,0,36,0,vaginal birth,PROM,no,no,yes,single dose,6 to 24 hrs,male,2000,48,30,7,8,5,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt741,spontaneus,preeclampsi,no,24,24.7,1,0,34,2,Cesarean,preeclampsia,no,no,yes,double dose,0 to 6 hrs,male,1900,41,32,8,9,6,no,no,no,none,no,others,none,0,0,0,NONE,no
+Pt13,spontaneus,ht,antihipertansive,27,45.7,1,0,34,6,Cesarean,preeclampsia,no,no,yes,single dose,24 to 48 hrs,male,1870,43,31,8,9,4,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt48,spontaneus,2.3,insulin + OAD,35,38.9,3,1,35,0,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,female,1620,42,30,8,10,10,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt770,spontaneus,No,no,26,24.1,3,2,34,6,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,male,2350,43,33,7,9,4,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt821,spontaneus,No,no,32,23,1,0,34,4,Cesarean,fetal distress,no,no,yes,single dose,24 to 48 hrs,male,1845,45,29.5,8,10,2,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt887,ıvf,2.3,no,35,17.5,1,0,36,5,Cesarean,4.5,no,no,yes,single dose,6 to 24 hrs,female,1785,46,31,9,10,5,no,yes,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt377,spontaneus,No,no,26,29.7,2,1,34,4,Cesarean,placental anomalia,no,no,yes,single dose,24 to 48 hrs,male,1780,41,31,8,9,6,no,no,no,none,no,resp. distress,none,0,0,0,NONE,no
+Pt220,spontaneus,preeclampsi,antihipertansive,39,32.5,2,1,35,0,Cesarean,placental anomalia,no,no,yes,single dose,24 to 48 hrs,female,1650,42,31,8,9,7,no,no,no,none,no,resp. distress,none,0,0,2,NONE,no
+Pt914,spontaneus,No,no,30,27.8,2,1,34,4,Cesarean,PROM,yes,2 doses 24hrs  interval,yes,rescue,24 to 48 hrs,female,2520,47,34,9,10,5,no,yes,no,none,no,resp. distress,TTN,0,2,3,NONE,no
+Pt1072,spontaneus,No,no,36,28.9,3,2,34,5,Cesarean,fetal distress,no,no,yes,double dose,0 to 6 hrs,female,1740,41,30,7,9,4,no,no,no,none,no,resp. distress,none,0,0,4,NONE,no
+Pt4,spontaneus,No,no,30,44.3,1,0,36,4,Cesarean,preterm eylem,no,no,yes,double dose,2 to 7 days,male,2480,49,37,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt24,spontaneus,DM,4.6,26,41.9,3,2,35,6,vaginal birth,preeclampsia,no,no,yes,single dose,>7 days,male,2930,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt31,spontaneus,hypo-hyperthyroidia,thyroid,38,41.1,2,1,35,3,vaginal birth,PROM,no,no,yes,single dose,6 to 24 hrs,male,2820,48,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt62,spontaneus,No,no,30,37.9,1,0,36,1,Cesarean,PROM,no,no,yes,single dose,6 to 24 hrs,female,2740,50,35,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt66,spontaneus,asthma,no,26,37.7,1,0,36,3,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,female,3990,50,36,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt90,spontaneus,2.3,no,37,36.6,3,1,35,2,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,male,2220,48,33.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt97,spontaneus,No,no,38,36.3,1,0,36,6,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,female,3200,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt112,spontaneus,No,no,31,35.6,2,0,36,1,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,female,2805,52,34,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt119,spontaneus,preeclampsi,no,26,35.2,1,0,36,0,Cesarean,preeclampsia,no,no,yes,single dose,>7 days,female,2190,48,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt120,spontaneus,DM,no,33,35.2,1,0,36,6,Cesarean,placental anomalia,no,no,yes,single dose,2 to 7 days,male,2070,44,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt121,spontaneus,hypo-hyperthyroidia,thyroid,24,35.1,1,0,35,0,vaginal birth,PROM,no,no,yes,single dose,24 to 48 hrs,female,2850,47,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt124,spontaneus,No,no,29,35,3,2,36,6,Cesarean,placental anomalia,no,no,yes,single dose,>7 days,male,2850,49,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt151,spontaneus,preeclampsi,no,27,34,3,2,34,5,Cesarean,preeclampsia,no,no,yes,single dose,24 to 48 hrs,male,2025,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt155,spontaneus,No,no,34,33.8,1,0,36,3,Cesarean,PROM,no,no,yes,double dose,>7 days,male,3010,50,33.5,0,9,0,no,none,no,none,no,none,none,0,0,0,NONE,no
+Pt172,spontaneus,No,no,23,33.3,1,0,34,4,vaginal birth,PROM,no,no,yes,single dose,2 to 7 days,female,2290,47,30,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt186,spontaneus,No,no,40,33.2,5,2,34,3,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,female,2175,43,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt207,spontaneus,No,no,28,32.8,1,0,35,5,vaginal birth,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2415,46,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt222,spontaneus,No,no,27,32.4,2,0,34,6,vaginal birth,preterm eylem,no,no,yes,single dose,0 to 6 hrs,male,2390,48,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt247,ıvf,No,anticoagülan,33,32,2,0,35,2,Cesarean,preterm eylem,no,no,yes,double dose,6 to 24 hrs,male,3630,49,37,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt274,spontaneus,No,no,37,31.3,5,2,34,3,vaginal birth,PROM,no,no,yes,single dose,24 to 48 hrs,male,2690,49,34,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt292,spontaneus,hypo-hyperthyroidia,thyroid,26,31.2,1,0,36,3,Cesarean,preterm eylem,no,no,yes,single dose,24 to 48 hrs,male,3280,49,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt312,spontaneus,No,no,39,30.8,4,0,35,6,Cesarean,preterm eylem,no,no,yes,double dose,24 to 48 hrs,male,2515,46,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt319,spontaneus,No,no,34,30.5,7,5,34,3,vaginal birth,PROM,no,no,yes,single dose,24 to 48 hrs,male,2000,47,31,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt321,spontaneus,cholestasis,cholestasis,31,30.5,1,0,35,3,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,yes,rescue,6 to 24 hrs,female,2170,44,33,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt368,spontaneus,No,no,36,29.9,5,2,34,3,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2330,42,32,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt381,spontaneus,No,no,27,29.7,3,2,36,4,Cesarean,preeclampsia,no,no,yes,single dose,2 to 7 days,female,2905,48,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt385,spontaneus,No,no,28,29.7,2,1,35,3,vaginal birth,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,3110,49,35,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt460,spontaneus,No,antihipertansive,30,28.5,4,1,35,3,Cesarean,placental anomalia,no,no,yes,single dose,2 to 7 days,male,2060,42,31,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt464,spontaneus,No,no,30,28.4,2,1,35,1,vaginal birth,PROM,no,no,yes,single dose,2 to 7 days,female,2170,47,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt482,spontaneus,ht,1.6,38,28.1,3,0,35,2,Cesarean,preeclampsia,yes,2 doses 24hrs  interval,yes,rescue,6 to 24 hrs,female,2730,47,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt483,spontaneus,No,no,32,28.1,1,0,34,4,Cesarean,PROM,no,no,yes,double dose,6 to 24 hrs,female,2950,46,35,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt490,spontaneus,No,no,27,28,2,1,35,3,vaginal birth,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2500,43,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt493,spontaneus,epilepsi,antiepileptic,33,28,6,0,34,5,Cesarean,preterm eylem,no,no,yes,double dose,6,female,2265,42,32,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt532,spontaneus,preeclampsi,no,32,27.3,3,0,35,2,vaginal birth,preterm eylem,no,no,yes,single dose,24 to 48 hrs,male,2480,48,30,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt551,spontaneus,No,no,27,27.3,2,1,36,4,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2140,45,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt554,spontaneus,No,no,30,27.2,2,1,35,6,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2210,48,32,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt634,spontaneus,No,no,37,26.2,3,1,35,4,vaginal birth,preterm eylem,no,no,yes,double dose,0 to 6 hrs,male,2540,50,34,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt643,spontaneus,No,no,33,26,1,0,36,0,Cesarean,3.4,no,no,yes,single dose,2 to 7 days,male,2100,44,32,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt673,ıvf,No,2.6,26,25.6,5,0,36,5,Cesarean,3.4,yes,2 doses 24hrs  interval,yes,rescue,2 to 7 days,male,2180,47,33,7,8,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt695,spontaneus,DM,insulin + OAD,26,25.3,1,0,35,1,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,female,3600,52,35,7,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt709,spontaneus,2.3,4.6,24,25.1,2,1,35,1,vaginal birth,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2650,45,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt732,ıvf,No,no,31,24.9,1,0,36,5,Cesarean,placental anomalia,yes,single dose,yes,double dose,>7 days,female,2740,47,35,8,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt737,spontaneus,No,no,25,24.8,3,2,35,5,Cesarean,PROM,no,no,yes,single dose,24 to 48 hrs,male,2660,48,34,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt751,spontaneus,cholestasis,cholestasis,33,24.5,5,2,35,3,Cesarean,preterm eylem,yes,2 doses 24hrs  interval,yes,rescue,0 to 6 hrs,male,2460,48,33,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt760,spontaneus,No,no,28,24.3,1,0,35,6,vaginal birth,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,2820,48,33,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt771,spontaneus,No,no,28,24.1,1,0,35,1,Cesarean,PROM,no,no,yes,single dose,6 to 24 hrs,female,1850,42,30.5,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt802,spontaneus,No,no,30,23.6,2,0,36,3,vaginal birth,PROM,no,no,yes,single dose,>7 days,female,2695,47,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt815,spontaneus,No,antihipertansive,28,23.3,3,2,36,0,vaginal birth,PROM,no,no,yes,single dose,2 to 7 days,male,2440,46,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt839,ıvf,No,cholestasis,31,22.5,2,0,36,4,Cesarean,preterm eylem,no,no,yes,double dose,2 to 7 days,female,2250,46,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt843,spontaneus,other,no,30,22.3,5,3,34,4,vaginal birth,PROM,no,no,yes,double dose,6 to 24 hrs,female,1830,43,31,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt867,spontaneus,asthma,no,28,21.3,2,1,36,2,vaginal birth,PROM,no,no,yes,single dose,24 to 48 hrs,male,2300,48,32,8,9,0,yes,no,no,none,no,none,none,0,0,0,NONE,no
+Pt870,spontaneus,No,no,22,21.2,1,0,36,2,Cesarean,preterm eylem,no,no,yes,double dose,0 to 6 hrs,male,2090,45,34,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt876,spontaneus,No,anticoagülan,33,20.3,2,0,35,6,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,yes,double dose,>7 days,female,2435,47,32,6,9,0,yes,yes,no,none,no,none,none,0,0,0,NONE,no
+Pt906,spontaneus,ht,2.6,36,28.9,1,0,35,3,Cesarean,preeclampsia,no,no,yes,single dose,2 to 7 days,male,2195,48,32,8,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt925,ıvf,hypo-hyperthyroidia,thyroid,22,28.9,1,0,36,3,vaginal birth,preterm eylem,no,no,yes,single dose,>7 days,female,2770,50,37,10,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt937,spontaneus,No,no,27,28.9,3,2,36,4,vaginal birth,preterm eylem,no,no,yes,single dose,>7 days,male,2750,47,33,9,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1023,spontaneus,No,anticoagülan,35,27.8,3,2,35,2,Cesarean,placental anomalia,yes,2 doses 24hrs  interval,yes,rescue,6 to 24 hrs,male,1885,45,31,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1048,spontaneus,No,no,23,28.9,2,0,34,5,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,3130,48,30,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt1050,spontaneus,DM,no,38,28.9,2,1,36,5,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,male,2870,46,35,7,9,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt477,spontaneus,3.4,2.4,28,28.2,1,0,36,2,Cesarean,preterm eylem,no,no,yes,single dose,2 to 7 days,male,2430,44,31,6,10,0,no,no,no,none,no,none,none,0,0,0,NONE,no
+Pt297,spontaneus,preeclampsi,no,24,31.1,1,0,34,0,Cesarean,placental anomalia,no,no,yes,single dose,0 to 6 hrs,female,1425,40,30,6,8,71,no,no,yes,pbv,late,others,TTN,14,21,64,IVK + BPD,no
+Pt191,spontaneus,No,no,26,33.2,1,0,34,5,Cesarean,placental anomalia,no,no,yes,double dose,6 to 24 hrs,male,1610,46.1,30,2,9,37,no,no,yes,pbv,late,resp. distress,none,0,0,0,NONE,no
+Pt584,ıvf,hypo-hyperthyroidia,thyroid,29,26.8,3,0,35,2,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2520,47,34,5,8,11,no,no,yes,pbv,late,resp. distress,pneumonia,9,0,11,NONE,no
+Pt228,spontaneus,No,no,26,32.3,3,2,34,4,vaginal birth,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,2870,46,35,2,6,18,no,no,yes,pbv,no,resp. distress,none,0,3,16,Ha PDA,no
+Pt178,spontaneus,No,no,32,33.3,3,0,35,2,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2460,49.2,37,5,7,6,no,no,yes,pbv,no,resp. distress,TTN,0,0,5,NONE,no
+Pt1040,spontaneus,3.4,2.4,31,28.9,2,1,36,5,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2935,53,30,4,6,7,no,no,yes,pbv,no,resp. distress,RDS + Pneumothorax,3,2,6,NONE,no
+Pt445,spontaneus,No,no,29,28.9,2,1,35,6,Cesarean,placental anomalia,no,no,yes,single dose,6 to 24 hrs,male,1870,47.9,37,7,9,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt463,spontaneus,DM,no,27,28.4,1,0,35,6,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,2930,44,30,6,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt565,spontaneus,No,no,35,27.1,2,1,36,0,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,3290,51,35,8,10,0,no,none,none,none,no,none,none,0,0,0,NONE,no
+Pt646,spontaneus,other,no,27,26,1,0,35,2,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,2030,46,31,8,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt775,spontaneus,hypo-hyperthyroidia,thyroid,24,24.1,1,0,36,4,vaginal birth,preterm eylem,yes,2 doses 24hrs  interval,yes,rescue,>7 days,female,2560,47,35,9,10,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt806,spontaneus,No,no,19,23.5,1,0,34,3,Cesarean,fetal distress,no,no,yes,single dose,0 to 6 hrs,female,1620,40,30,8,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt822,spontaneus,No,no,38,23,1,0,34,4,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,female,1785,43,37,7,8,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt845,spontaneus,DM,no,40,22.2,2,1,36,2,Cesarean,preterm eylem,no,no,yes,single dose,0 to 6 hrs,female,3020,49,36,9,10,0,no,no,none,none,no,none,none,0,0,0,NONE,no
+Pt854,spontaneus,cholestasis,no,27,21.9,2,1,36,2,Cesarean,preterm eylem,no,no,yes,single dose,6 to 24 hrs,male,2440,48,33,7,9,0,none,none,none,none,no,none,none,0,0,0,NONE,no
+Pt1049,spontaneus,No,no,27,28.9,2,1,35,6,Cesarean,PROM,no,no,yes,double dose,24 to 48 hrs,male,3215,48.3,37,5,7,0,none,none,none,none,no,none,none,0,0,0,NONE,no

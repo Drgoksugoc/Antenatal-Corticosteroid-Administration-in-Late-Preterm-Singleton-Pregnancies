@@ -1,0 +1,13 @@
+Warning messages:
+1: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
+2: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
+3: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
+4: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
+5: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
+6: In meatHC(x, type = type, omega = omega) :
+  HC0 covariances become (close to) singular if hat values are (close to) 1 as for observation(s) 214
