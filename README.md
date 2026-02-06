@@ -1,14 +1,11 @@
 Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies
 
-This repository contains de-identified data and analysis code supporting the manuscript:
-
-- `manuscript/Manuscript.pdf`
-- `manuscript/Supplementary_Materials.pdf`
+This repository contains de-identified data and analysis code:
 
 Contents
 
-- `data/ACS_Late_Preterm.csv` — source dataset (de-identified)
-- `code/ACS_late_preterm_advanced_pipeline_v1_5.R` — main analysis pipeline (R)
+- `data/ACS_Late_Preterm_deidentified.csv` — source dataset (de-identified)
+- `code/ACS_late_preterm_statistical_script.R` — main analysis pipeline (R)
 - `outputs/` — key analysis outputs used to generate manuscript tables/figures
 - `figures/` — submitted figure files (PNG + TIFF)
 - `docs/` — STROBE checklist
@@ -23,5 +20,5 @@ Reproducibility (brief)
 
 Notes
 
-- Primary outcome: **any respiratory support at birth** (reported as `oxygen_any`).
-- The previously duplicated “resuscitation” endpoint is **not reported** in this version to avoid redundancy.
+- Primary outcome: “any respiratory support at birth” (reported as `oxygen_any`).
+- The previously duplicated “resuscitation” endpoint is “not reported” in this version to avoid redundancy.
