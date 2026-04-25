@@ -1,0 +1,8 @@
+characteristic,level,n,pct
+ACS dose,single dose,108,0.8571428571428571
+ACS dose,double dose,18,0.14285714285714285
+ACS-to-delivery timing,6 to 24 hrs,40,0.31746031746031744
+ACS-to-delivery timing,0 to 6 hrs,30,0.23809523809523808
+ACS-to-delivery timing,2 to 7 days,25,0.1984126984126984
+ACS-to-delivery timing,24 to 48 hrs,23,0.18253968253968253
+ACS-to-delivery timing,>7 days,8,0.06349206349206349

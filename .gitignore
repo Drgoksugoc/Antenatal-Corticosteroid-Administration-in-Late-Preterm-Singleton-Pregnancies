@@ -1,82 +1,21 @@
-# ==================================================
-# Operating system files
-# ==================================================
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ==================================================
-# Editor / IDE files
-# ==================================================
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-*.bak
-
-# ==================================================
-# R environment
-# ==================================================
+# R
 .Rhistory
 .RData
-.Ruserdata
 .Rproj.user/
-*.Rproj
+renv/library/
+*.Rout
 
-# ==================================================
-# Python environment
-# ==================================================
-__pycache__/
-*.py[cod]
-.env
-.venv/
-venv/
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
 
-# ==================================================
-# Jupyter notebooks
-# ==================================================
-.ipynb_checkpoints/
-
-# ==================================================
-# LaTeX / manuscript build files
-# ==================================================
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.fdb_latexmk
-*.fls
-*.log
-*.out
-*.run.xml
-*.toc
-
-# ==================================================
 # Temporary files
-# ==================================================
-*.tmp
-*.temp
-*.cache
+tmp/
+temp/
+*.log
 
-# ==================================================
-# Statistical software temporary outputs
-# ==================================================
-*.sav~
-*.zsav~
-*.spv~
-*.log~
-*.lst~
-
-# ==================================================
-# Compressed files
-# ==================================================
-*.zip
-*.rar
-*.7z
-
-# ==================================================
-# Optional (uncomment ONLY if raw data must be excluded)
-# ==================================================
-# data/raw/
-# data/identified/
+# Do not commit raw identifiable source files if they exist locally
+*.sav
+*identified*
+*raw*

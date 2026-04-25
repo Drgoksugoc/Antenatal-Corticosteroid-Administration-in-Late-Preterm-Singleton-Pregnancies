@@ -1,13 +1,38 @@
 cff-version: 1.2.0
-message: "If you use these materials, please cite the associated manuscript."
-title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies"
+message: "If you use this repository, please cite the associated manuscript and this repository."
 type: dataset
+title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies: A Propensity Score-Weighted Analysis of Neonatal Outcomes"
+version: "major-revision-2026"
+date-released: "2026-03-02"
+repository-code: "https://github.com/Drgoksugoc/Antenatal-Corticosteroid-Administration-in-Late-Preterm-Singleton-Pregnancies"
 authors:
-  - given-names: "Goksu"
-    family-names: "Goc"
-keywords:
-  - obstetrics
-  - antenatal corticosteroids
-  - late preterm
-  - propensity score
-license: "CC-BY-4.0"
+  - family-names: "Aynaoglu"
+    given-names: "Gulsah"
+  - family-names: "Goc"
+    given-names: "Goksu"
+  - family-names: "Sut"
+    given-names: "Hasan"
+  - family-names: "Kaplan"
+    given-names: "Necati Berk"
+  - family-names: "Aslan"
+    given-names: "Batuhan"
+  - family-names: "Okulu"
+    given-names: "Emel"
+preferred-citation:
+  type: article
+  title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies: A Propensity Score-Weighted Analysis of Neonatal Outcomes"
+  authors:
+    - family-names: "Aynaoglu"
+      given-names: "Gulsah"
+    - family-names: "Goc"
+      given-names: "Goksu"
+    - family-names: "Sut"
+      given-names: "Hasan"
+    - family-names: "Kaplan"
+      given-names: "Necati Berk"
+    - family-names: "Aslan"
+      given-names: "Batuhan"
+    - family-names: "Okulu"
+      given-names: "Emel"
+  journal: "American Journal of Perinatology"
+  year: 2026

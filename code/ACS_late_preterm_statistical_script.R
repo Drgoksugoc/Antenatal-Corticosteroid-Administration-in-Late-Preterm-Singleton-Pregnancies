@@ -81,8 +81,8 @@ suppressPackageStartupMessages({
 
 # ------------------------------- I/O -----------------------------------------
 args <- commandArgs(trailingOnly = TRUE)
-input_path <- if (length(args) >= 1) args[1] else "ACS_Late_Preterm.csv"
-out_dir    <- if (length(args) >= 2) args[2] else "analysis_outputs"
+input_path <- if (length(args) >= 1) args[1] else "data/ACS_Late_Preterm_deidentified.csv"
+out_dir    <- if (length(args) >= 2) args[2] else "outputs"
 
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(out_dir, "plots"), showWarnings = FALSE, recursive = TRUE)
@@ -292,9 +292,21 @@ dat <- dat |>
     maternal_infection_bin = as.integer(recode_yesno(maternal_infection) == "yes"),
     sepsis_any = as.integer(!is.na(neonatal_sepsis) & neonatal_sepsis != "no"),
     oxygen_any = as.integer(!is.na(oxygen_support) & oxygen_support != "none"),
+    support_modality = case_when(
+      is.na(oxygen_support) | oxygen_support == "none" ~ "no_support",
+      oxygen_support == "hood only" ~ "hood_oxygen_only",
+      oxygen_support == "cpap" ~ "cpap",
+      oxygen_support == "pbv" ~ "positive_pressure_ventilation",
+      oxygen_support == "intubation" ~ "intubation",
+      TRUE ~ "other"
+    ),
+    high_intensity_initial_support = as.integer(
+      support_modality %in% c("cpap", "positive_pressure_ventilation", "intubation")
+    ),
     inv_mv_any = as.integer(invasive_mechanic_ventilation_days > 0),
     nasal_mv_any = as.integer(nasal_mv_days > 0),
     o2_any = as.integer(o2_days_total > 0),
+    hospital_course_respiratory_support = as.integer(inv_mv_any == 1 | nasal_mv_any == 1 | o2_any == 1),
     preterm_comp_any = as.integer(!is.na(preterm_complications) & preterm_complications != "none"),
     death = as.integer(recode_yesno(neonatal_death) == "yes")
   )
@@ -361,6 +373,106 @@ cohort_sens_all <- late_preterm
 
 # ------------------------------ Save cleaned data -----------------------------
 readr::write_csv(cohort_main, file.path(out_dir, "data_cleaned_main.csv"))
+
+# ------------------------ Reviewer-requested descriptive tables ----------------
+# These files clarify the difference between the primary outcome (initial support
+# at birth, oxygen_any) and hospitalization-course support based on support days.
+
+outcome_definitions <- tibble(
+  outcome = c(
+    "oxygen_any", "support_modality", "high_intensity_initial_support",
+    "hospital_course_respiratory_support", "resp_any", "nicu_admit",
+    "hypoglycemia", "sepsis_any", "preterm_comp_any", "death"
+  ),
+  label = c(
+    "Any initial respiratory support at birth",
+    "Initial respiratory support modality",
+    "Higher-intensity initial support",
+    "Any respiratory support during hospitalization based on support days",
+    "Diagnosis-based pulmonary morbidity",
+    "NICU admission",
+    "Neonatal hypoglycemia",
+    "Neonatal sepsis",
+    "Preterm complication composite",
+    "Neonatal death"
+  ),
+  definition = c(
+    "oxygen_support not equal to none; includes hood oxygen, CPAP, positive-pressure ventilation/PBV, or intubation",
+    "Categorical modality from oxygen_support: no support, hood oxygen only, CPAP, PBV/positive-pressure ventilation, intubation, or other",
+    "CPAP, PBV/positive-pressure ventilation, or intubation",
+    "o2_days_total > 0 or nasal_mv_days > 0 or invasive_mechanic_ventilation_days > 0",
+    "respiratory_morbidity not equal to none; diagnosis-based field",
+    "nicu_days > 0",
+    "neonatal_hypoglycemia coded yes",
+    "neonatal_sepsis not equal to no",
+    "preterm_complications not equal to none",
+    "neonatal_death coded yes"
+  ),
+  manuscript_role = c(
+    "Primary outcome",
+    "Reviewer-requested modality breakdown",
+    "Reviewer-requested sensitivity/descriptive outcome",
+    "Reviewer-requested hospitalization-course descriptive outcome",
+    "Secondary outcome / pulmonary morbidity",
+    "Secondary outcome",
+    "Secondary outcome",
+    "Secondary outcome",
+    "Secondary outcome",
+    "Secondary outcome"
+  )
+)
+readr::write_csv(outcome_definitions, file.path(out_dir, "outcome_definitions.csv"))
+
+n_acs <- sum(cohort_main$treat == 1)
+n_no_acs <- sum(cohort_main$treat == 0)
+
+initial_support_modality <- cohort_main |>
+  mutate(
+    exposure_group = ifelse(treat == 1, "ACS", "No ACS"),
+    support_modality = factor(
+      support_modality,
+      levels = c("no_support", "hood_oxygen_only", "cpap", "positive_pressure_ventilation", "intubation", "other")
+    )
+  ) |>
+  count(support_modality, exposure_group, name = "n") |>
+  tidyr::complete(
+    support_modality,
+    exposure_group = c("ACS", "No ACS"),
+    fill = list(n = 0)
+  ) |>
+  mutate(denominator = ifelse(exposure_group == "ACS", n_acs, n_no_acs),
+         pct = n / denominator) |>
+  arrange(support_modality, exposure_group)
+
+readr::write_csv(initial_support_modality, file.path(out_dir, "initial_respiratory_support_modality.csv"))
+
+respiratory_support_counts <- tibble(
+  outcome = c("oxygen_any", "high_intensity_initial_support", "hospital_course_respiratory_support"),
+  label = c(
+    "Any initial respiratory support at birth",
+    "Higher-intensity initial support (CPAP/PBV/intubation)",
+    "Any hospitalization-course respiratory support based on support days"
+  ),
+  acs_n = c(
+    sum(cohort_main$oxygen_any[cohort_main$treat == 1] == 1, na.rm = TRUE),
+    sum(cohort_main$high_intensity_initial_support[cohort_main$treat == 1] == 1, na.rm = TRUE),
+    sum(cohort_main$hospital_course_respiratory_support[cohort_main$treat == 1] == 1, na.rm = TRUE)
+  ),
+  acs_denominator = n_acs,
+  no_acs_n = c(
+    sum(cohort_main$oxygen_any[cohort_main$treat == 0] == 1, na.rm = TRUE),
+    sum(cohort_main$high_intensity_initial_support[cohort_main$treat == 0] == 1, na.rm = TRUE),
+    sum(cohort_main$hospital_course_respiratory_support[cohort_main$treat == 0] == 1, na.rm = TRUE)
+  ),
+  no_acs_denominator = n_no_acs
+) |>
+  mutate(
+    acs_pct = acs_n / acs_denominator,
+    no_acs_pct = no_acs_n / no_acs_denominator
+  )
+
+readr::write_csv(respiratory_support_counts, file.path(out_dir, "respiratory_support_descriptive_counts.csv"))
+
 
 # ------------------------------ PS + weights ---------------------------------
 # PS model covariates (pre-treatment as much as possible)
@@ -694,6 +806,67 @@ outcome_results_main <- or_results_df |>
 readr::write_csv(outcome_results_main, file.path(out_dir, "outcome_results_main.csv"))
 readr::write_csv(cont_results_df, file.path(out_dir, "outcome_results_continuous_main.csv"))
 
+
+# Compact table of key manuscript-facing results
+binary_labels <- tibble(
+  outcome = c("oxygen_any", "nicu_admit", "hypoglycemia", "sepsis_any", "resp_any",
+              "preterm_comp_any", "death", "inv_mv_any", "nasal_mv_any", "o2_any"),
+  outcome_label = c(
+    "Primary: any initial respiratory support at birth",
+    "NICU admission",
+    "Neonatal hypoglycemia",
+    "Neonatal sepsis",
+    "Pulmonary morbidity (diagnosis-based)",
+    "Preterm complication composite",
+    "Neonatal death",
+    "Any invasive mechanical ventilation days >0",
+    "Any nasal mechanical ventilation days >0",
+    "Any oxygen days >0"
+  ),
+  estimate_type = "IPTW odds ratio",
+  sort_order = seq_len(10)
+)
+
+continuous_labels <- tibble(
+  outcome = c("nicu_days", "o2_days_total", "invasive_mechanic_ventilation_days",
+              "nasal_mv_days", "apgar_1_min", "apgar_5_min"),
+  outcome_label = c(
+    "NICU length of stay, days",
+    "Oxygen days total",
+    "Invasive MV days",
+    "Nasal MV days",
+    "Apgar score at 1 minute",
+    "Apgar score at 5 minutes"
+  ),
+  estimate_type = "IPTW mean difference",
+  sort_order = 10 + seq_len(6)
+)
+
+key_binary_results <- outcome_results_main |>
+  filter(model == "iptw") |>
+  inner_join(binary_labels, by = "outcome") |>
+  transmute(
+    sort_order, outcome, outcome_label, estimate_type,
+    estimate, lcl, ucl, p.value,
+    display = sprintf("%.2f (%.2f–%.2f), P=%.3f", estimate, lcl, ucl, p.value)
+  )
+
+key_continuous_results <- cont_results_df |>
+  filter(model == "iptw") |>
+  inner_join(continuous_labels, by = "outcome") |>
+  transmute(
+    sort_order, outcome, outcome_label, estimate_type,
+    estimate, lcl, ucl, p.value,
+    display = sprintf("%.2f (%.2f–%.2f), P=%.3f", estimate, lcl, ucl, p.value)
+  )
+
+key_manuscript_results <- bind_rows(key_binary_results, key_continuous_results) |>
+  arrange(sort_order) |>
+  select(-sort_order)
+
+readr::write_csv(key_manuscript_results, file.path(out_dir, "key_manuscript_results.csv"))
+
+
 # ------------------------------ Stratified outcomes ---------------------------
 # Stratify by GA week at birth (34/35/36)
 cohort_main <- cohort_main |> mutate(ga_week = factor(floor(ga_birth_weeks)))
@@ -738,7 +911,8 @@ treated_summary <- cohort_main |>
   filter(treat == 1) |>
   mutate(
     acs_dose = forcats::fct_na_value_to_level(factor(acs_34w_to_37w_dose), level = "missing"),
-    timing = forcats::fct_na_value_to_level(factor(as_to_delivery_time), level = "missing")
+    timing_clean = ifelse(as_to_delivery_time == "6", "0 to 6 hrs", as_to_delivery_time),
+    timing = forcats::fct_na_value_to_level(factor(timing_clean), level = "missing")
   ) |>
   count(acs_dose, timing, name = "n") |>
   group_by(acs_dose) |>
@@ -747,6 +921,24 @@ treated_summary <- cohort_main |>
   arrange(desc(n))
 
 readr::write_csv(treated_summary, file.path(out_dir, "dose_timing_summary_treated.csv"))
+
+dose_timing_overall <- bind_rows(
+  cohort_main |>
+    filter(treat == 1) |>
+    count(level = acs_34w_to_37w_dose, name = "n") |>
+    mutate(characteristic = "ACS dose", pct = n / sum(n)) |>
+    select(characteristic, level, n, pct),
+  cohort_main |>
+    filter(treat == 1) |>
+    mutate(timing_clean = ifelse(as_to_delivery_time == "6", "0 to 6 hrs", as_to_delivery_time)) |>
+    count(level = timing_clean, name = "n") |>
+    mutate(characteristic = "ACS-to-delivery timing", pct = n / sum(n)) |>
+    select(characteristic, level, n, pct)
+) |>
+  arrange(characteristic, desc(n))
+
+readr::write_csv(dose_timing_overall, file.path(out_dir, "dose_timing_summary_overall.csv"))
+
 
 # ------------------------------ Sensitivity (optional) ------------------------
 # Include early ACS (<34w) as a covariate and re-run PS + key outcomes.
