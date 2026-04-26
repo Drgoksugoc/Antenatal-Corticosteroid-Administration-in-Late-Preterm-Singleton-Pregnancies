@@ -1,11 +1,11 @@
 outcome,label,definition,manuscript_role
-oxygen_any,Any initial respiratory support at birth,"oxygen_support not equal to none; includes hood oxygen, CPAP, positive-pressure ventilation/PBV, or intubation",Primary outcome
-support_modality,Initial respiratory support modality,"Categorical modality from oxygen_support: no support, hood oxygen only, CPAP, PBV/positive-pressure ventilation, intubation, or other",Reviewer-requested modality breakdown
-high_intensity_initial_support,Higher-intensity initial support,"CPAP, PBV/positive-pressure ventilation, or intubation",Reviewer-requested sensitivity/descriptive outcome
+oxygen_any,Any initial respiratory support at birth,"oxygen_support not equal to none; includes hood oxygen, CPAP, PBV/positive-pressure ventilation, or intubation",Primary outcome
+support_modality,Initial respiratory support modality,Categorical modality from oxygen_support,Reviewer-requested modality breakdown
+high_intensity_initial_support,Higher-intensity initial support,"CPAP, PBV/positive-pressure ventilation, or intubation",Reviewer-requested descriptive outcome
 hospital_course_respiratory_support,Any respiratory support during hospitalization based on support days,o2_days_total > 0 or nasal_mv_days > 0 or invasive_mechanic_ventilation_days > 0,Reviewer-requested hospitalization-course descriptive outcome
 resp_any,Diagnosis-based pulmonary morbidity,respiratory_morbidity not equal to none; diagnosis-based field,Secondary outcome / pulmonary morbidity
 nicu_admit,NICU admission,nicu_days > 0,Secondary outcome
 hypoglycemia,Neonatal hypoglycemia,neonatal_hypoglycemia coded yes,Secondary outcome
-sepsis_any,Neonatal sepsis,neonatal_sepsis not equal to no,Secondary outcome
+sepsis_any,Neonatal sepsis,neonatal_sepsis not equal to no/none,Secondary outcome
 preterm_comp_any,Preterm complication composite,preterm_complications not equal to none,Secondary outcome
 death,Neonatal death,neonatal_death coded yes,Secondary outcome

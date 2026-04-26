@@ -1,12 +1,12 @@
 ps_formula,covariate
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,age
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,bmi
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,gravida
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,parity
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,conception_assisted
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,maternal_disease_grp
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,medication_use_grp
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,maternal_infection_bin
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,indication_delivery_grp
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,type_of_delivery
-treat ~ age + bmi + gravida + parity + conception_assisted +      maternal_disease_grp + medication_use_grp + maternal_infection_bin +      indication_delivery_grp + type_of_delivery + fetal_gender,fetal_gender
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,age
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,bmi
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,gravida
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,parity
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,conception_assisted
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,maternal_disease_grp
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,medication_use_grp
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,maternal_infection_bin
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,indication_delivery_grp
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,type_of_delivery
+treat ~ age + bmi + gravida + parity + conception_assisted + maternal_disease_grp + medication_use_grp + maternal_infection_bin + indication_delivery_grp + type_of_delivery + fetal_gender,fetal_gender

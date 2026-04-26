@@ -1,4 +1,4 @@
-outcome,label,acs_n,acs_denominator,acs_pct,no_acs_n,no_acs_denominator,no_acs_pct
-oxygen_any,Any initial respiratory support at birth,43,126,0.3412698412698413,223,886,0.2516930022573363
-high_intensity_initial_support,Higher-intensity initial support (CPAP/PBV/intubation),29,126,0.23015873015873015,189,886,0.21331828442437922
-hospital_course_respiratory_support,Any hospitalization-course respiratory support based on support days,22,126,0.1746031746031746,151,886,0.17042889390519186
+outcome,label,acs_n,acs_denominator,no_acs_n,no_acs_denominator,acs_pct,no_acs_pct
+oxygen_any,Any initial respiratory support at birth,43,126,223,886,0.3412698412698413,0.2516930022573363
+high_intensity_initial_support,Higher-intensity initial support (CPAP/PBV/intubation),29,126,189,886,0.23015873015873015,0.21331828442437922
+hospital_course_respiratory_support,Any hospitalization-course respiratory support based on support days,22,126,151,886,0.1746031746031746,0.17042889390519186

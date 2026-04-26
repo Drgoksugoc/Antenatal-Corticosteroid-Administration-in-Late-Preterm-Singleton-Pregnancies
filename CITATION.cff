@@ -1,38 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript and this repository."
-type: dataset
+message: "If you use this repository, please cite the associated manuscript and repository."
 title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies: A Propensity Score-Weighted Analysis of Neonatal Outcomes"
-version: "major-revision-2026"
-date-released: "2026-03-02"
+version: "v2.1-delivery-mode-sensitivity"
+date-released: "2026-04-25"
 repository-code: "https://github.com/Drgoksugoc/Antenatal-Corticosteroid-Administration-in-Late-Preterm-Singleton-Pregnancies"
 authors:
-  - family-names: "Aynaoglu"
-    given-names: "Gulsah"
   - family-names: "Goc"
     given-names: "Goksu"
-  - family-names: "Sut"
-    given-names: "Hasan"
-  - family-names: "Kaplan"
-    given-names: "Necati Berk"
-  - family-names: "Aslan"
-    given-names: "Batuhan"
-  - family-names: "Okulu"
-    given-names: "Emel"
-preferred-citation:
-  type: article
-  title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies: A Propensity Score-Weighted Analysis of Neonatal Outcomes"
-  authors:
-    - family-names: "Aynaoglu"
-      given-names: "Gulsah"
-    - family-names: "Goc"
-      given-names: "Goksu"
-    - family-names: "Sut"
-      given-names: "Hasan"
-    - family-names: "Kaplan"
-      given-names: "Necati Berk"
-    - family-names: "Aslan"
-      given-names: "Batuhan"
-    - family-names: "Okulu"
-      given-names: "Emel"
-  journal: "American Journal of Perinatology"
-  year: 2026
+  - family-names: "Aynaoglu"
+    given-names: "Gulsah"
