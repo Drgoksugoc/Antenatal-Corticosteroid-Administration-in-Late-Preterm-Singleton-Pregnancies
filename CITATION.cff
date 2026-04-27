@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated manuscript and repository."
 title: "Antenatal Corticosteroid Administration in Late Preterm Singleton Pregnancies: A Propensity Score-Weighted Analysis of Neonatal Outcomes"
-version: "v2.1-delivery-mode-sensitivity"
-date-released: "2026-04-25"
+version: "v2.2-ga-sensitivity-update"
+date-released: "2026-04-27"
 repository-code: "https://github.com/Drgoksugoc/Antenatal-Corticosteroid-Administration-in-Late-Preterm-Singleton-Pregnancies"
 authors:
   - family-names: "Goc"

@@ -681,6 +681,111 @@ message(sprintf(
   .no_dm_iptw_or, .no_dm_iptw_lcl, .no_dm_iptw_ucl, .main_iptw_or, .pct_change
 ))
 
+
+# ------------ Sensitivity: PS model including gestational age ----------------
+# Reviewer-requested sensitivity analyses: re-fit the propensity score model
+# with gestational age included as either continuous (days at birth) or
+# completed-week categorical, and compare the resulting IPTW odds ratio for
+# the primary outcome against the primary estimate.
+#
+# Rationale: gestational age at delivery may reflect delivery timing after
+# the treatment decision rather than a conventional baseline confounder, so
+# the primary PS model excludes it. These sensitivity analyses, reported in
+# Supplementary Table S2, assess robustness when GA is included in the PS.
+
+# Local helper - returns named vector or/lcl/ucl/p (no tibble dependency)
+or_from_svyglm_basic <- function(fit, term = "treat") {
+  beta <- coef(fit)[term]
+  se   <- sqrt(vcov(fit)[term, term])
+  p    <- summary(fit)$coefficients[term, "Pr(>|t|)"]
+  c(or  = unname(exp(beta)),
+    lcl = unname(exp(beta - 1.96 * se)),
+    ucl = unname(exp(beta + 1.96 * se)),
+    p   = unname(p))
+}
+
+# Sensitivity 1: PS with GA continuous (days)
+ps_formula_ga_cont <- treat ~ age + bmi + gravida + parity + conception_assisted +
+  maternal_disease_grp + medication_use_grp + maternal_infection_bin +
+  indication_delivery_grp + type_of_delivery + fetal_gender + ga_birth_days
+
+ps_vars_ga_cont <- all.vars(ps_formula_ga_cont)
+cohort_ga_cont <- cohort_main[stats::complete.cases(cohort_main[, ps_vars_ga_cont]), ]
+
+ps_model_ga_cont <- glm(ps_formula_ga_cont, data = cohort_ga_cont, family = binomial())
+cohort_ga_cont$ps <- as.numeric(predict(ps_model_ga_cont, type = "response"))
+ptreat_gc <- mean(cohort_ga_cont$treat == 1)
+cohort_ga_cont$w_iptw <- ifelse(cohort_ga_cont$treat == 1,
+                                ptreat_gc / cohort_ga_cont$ps,
+                                (1 - ptreat_gc) / (1 - cohort_ga_cont$ps))
+q_gc <- stats::quantile(cohort_ga_cont$w_iptw, probs = c(0.01, 0.99), na.rm = TRUE)
+cohort_ga_cont$w_iptw_trim <- pmin(pmax(cohort_ga_cont$w_iptw, q_gc[1]), q_gc[2])
+
+stopifnot("oxygen_any" %in% names(cohort_ga_cont))
+
+des_ga_cont <- survey::svydesign(ids = ~1, weights = ~w_iptw_trim, data = cohort_ga_cont)
+fit_ga_cont <- survey::svyglm(oxygen_any ~ treat, design = des_ga_cont, family = quasibinomial())
+or_ga_cont <- or_from_svyglm_basic(fit_ga_cont, term = "treat")
+
+cat(sprintf(
+  "\nSensitivity (PS including GA, continuous days), primary outcome IPTW OR: %.3f (95%% CI %.3f-%.3f), P=%.3f\n",
+  or_ga_cont["or"], or_ga_cont["lcl"], or_ga_cont["ucl"], or_ga_cont["p"]
+))
+
+# Sensitivity 2: PS with GA completed-week category
+cohort_ga_cat <- cohort_main
+cohort_ga_cat$ga_week_cat <- factor(cohort_ga_cat$ga_week)
+
+ps_formula_ga_cat <- treat ~ age + bmi + gravida + parity + conception_assisted +
+  maternal_disease_grp + medication_use_grp + maternal_infection_bin +
+  indication_delivery_grp + type_of_delivery + fetal_gender + ga_week_cat
+
+ps_vars_ga_cat <- all.vars(ps_formula_ga_cat)
+cohort_ga_cat <- cohort_ga_cat[stats::complete.cases(cohort_ga_cat[, ps_vars_ga_cat]), ]
+
+ps_model_ga_cat <- glm(ps_formula_ga_cat, data = cohort_ga_cat, family = binomial())
+cohort_ga_cat$ps <- as.numeric(predict(ps_model_ga_cat, type = "response"))
+ptreat_gca <- mean(cohort_ga_cat$treat == 1)
+cohort_ga_cat$w_iptw <- ifelse(cohort_ga_cat$treat == 1,
+                               ptreat_gca / cohort_ga_cat$ps,
+                               (1 - ptreat_gca) / (1 - cohort_ga_cat$ps))
+q_gca <- stats::quantile(cohort_ga_cat$w_iptw, probs = c(0.01, 0.99), na.rm = TRUE)
+cohort_ga_cat$w_iptw_trim <- pmin(pmax(cohort_ga_cat$w_iptw, q_gca[1]), q_gca[2])
+
+stopifnot("oxygen_any" %in% names(cohort_ga_cat))
+
+des_ga_cat <- survey::svydesign(ids = ~1, weights = ~w_iptw_trim, data = cohort_ga_cat)
+fit_ga_cat <- survey::svyglm(oxygen_any ~ treat, design = des_ga_cat, family = quasibinomial())
+or_ga_cat <- or_from_svyglm_basic(fit_ga_cat, term = "treat")
+
+cat(sprintf(
+  "Sensitivity (PS including GA, completed-week category), primary outcome IPTW OR: %.3f (95%% CI %.3f-%.3f), P=%.3f\n",
+  or_ga_cat["or"], or_ga_cat["lcl"], or_ga_cat["ucl"], or_ga_cat["p"]
+))
+
+# Combined GA sensitivity table - re-fit primary model on des_main for comparable column
+fit_primary <- survey::svyglm(oxygen_any ~ treat, design = des_main, family = quasibinomial())
+or_primary <- or_from_svyglm_basic(fit_primary, term = "treat")
+
+ga_sens_table <- data.frame(
+  analysis = c("Primary (no GA in PS)",
+               "Sensitivity: PS with GA continuous (days)",
+               "Sensitivity: PS with GA completed-week category"),
+  n        = c(nrow(cohort_main), nrow(cohort_ga_cont), nrow(cohort_ga_cat)),
+  OR       = c(or_primary["or"],   or_ga_cont["or"],   or_ga_cat["or"]),
+  CI_low   = c(or_primary["lcl"],  or_ga_cont["lcl"],  or_ga_cat["lcl"]),
+  CI_high  = c(or_primary["ucl"],  or_ga_cont["ucl"],  or_ga_cat["ucl"]),
+  P_value  = c(or_primary["p"],    or_ga_cont["p"],    or_ga_cat["p"]),
+  stringsAsFactors = FALSE
+)
+
+write.csv(ga_sens_table,
+          file.path(out_dir, "ga_sensitivity_analyses.csv"),
+          row.names = FALSE)
+
+cat("\n--- GA sensitivity table written to ga_sensitivity_analyses.csv ---\n")
+print(ga_sens_table)
+
 # ----------------------------- Comparison file ------------------------------
 get_iptw <- function(outcome, field = "estimate") {
   outcome_results_main |>

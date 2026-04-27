@@ -1,0 +1,4 @@
+analysis,n,OR,CI_low,CI_high,P_value
+Primary (no GA in PS),1012,1.404352,0.9047379,2.179863,0.1304053
+Sensitivity: PS with GA continuous (days),1012,1.278739,0.8171519,2.001065,0.2821080
+Sensitivity: PS with GA completed-week category,1012,1.305646,0.8365952,2.037679,0.2405228
